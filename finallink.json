@@ -1,0 +1,962 @@
+[
+    {
+        "carname": "Hyundai Creta",
+        "carlink": "https://www.carwale.com/hyundai-cars/creta/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Venue",
+        "carlink": "https://www.carwale.com/hyundai-cars/venue/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Exter",
+        "carlink": "https://www.carwale.com/hyundai-cars/exter/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra XUV 7XO",
+        "carlink": "https://www.carwale.com/mahindra-cars/xuv-7xo/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Punch",
+        "carlink": "https://www.carwale.com/tata-cars/punch/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Sierra",
+        "carlink": "https://www.carwale.com/tata-cars/sierra/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "carlink": "https://www.carwale.com/mahindra-cars/scorpio-n/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Nexon",
+        "carlink": "https://www.carwale.com/tata-cars/nexon/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra XUV 3XO",
+        "carlink": "https://www.carwale.com/mahindra-cars/xuv-3xo/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Thar Roxx",
+        "carlink": "https://www.carwale.com/mahindra-cars/thar-roxx/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Tiago",
+        "carlink": "https://www.carwale.com/tata-cars/tiago/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Harrier",
+        "carlink": "https://www.carwale.com/tata-cars/harrier/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Safari",
+        "carlink": "https://www.carwale.com/tata-cars/safari/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai i20",
+        "carlink": "https://www.carwale.com/hyundai-cars/i20/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Punch EV",
+        "carlink": "https://www.carwale.com/tata-cars/punch-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Verna",
+        "carlink": "https://www.carwale.com/hyundai-cars/verna/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Altroz",
+        "carlink": "https://www.carwale.com/tata-cars/altroz/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Grand i10 Nios",
+        "carlink": "https://www.carwale.com/hyundai-cars/grand-i10-nios/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Harrier EV",
+        "carlink": "https://www.carwale.com/tata-cars/harrier-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Aura",
+        "carlink": "https://www.carwale.com/hyundai-cars/aura/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Nexon EV",
+        "carlink": "https://www.carwale.com/tata-cars/nexon-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Alcazar",
+        "carlink": "https://www.carwale.com/hyundai-cars/alcazar/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Tiago EV",
+        "carlink": "https://www.carwale.com/tata-cars/tiago-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Venue N Line",
+        "carlink": "https://www.carwale.com/hyundai-cars/venue-n-line/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Curvv",
+        "carlink": "https://www.carwale.com/tata-cars/curvv/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai i20 N Line",
+        "carlink": "https://www.carwale.com/hyundai-cars/i20-n-line/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Tigor EV",
+        "carlink": "https://www.carwale.com/tata-cars/tigor-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Creta Electric",
+        "carlink": "https://www.carwale.com/hyundai-cars/creta-electric/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Curvv EV",
+        "carlink": "https://www.carwale.com/tata-cars/curvv-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Creta N Line",
+        "carlink": "https://www.carwale.com/hyundai-cars/creta-n-line/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Tigor",
+        "carlink": "https://www.carwale.com/tata-cars/tigor/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Hyundai Ioniq 5",
+        "carlink": "https://www.carwale.com/hyundai-cars/ioniq-5/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tata Tiago NRG",
+        "carlink": "https://www.carwale.com/tata-cars/tiago-nrg/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Thar",
+        "carlink": "https://www.carwale.com/mahindra-cars/thar/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra BE 6",
+        "carlink": "https://www.carwale.com/mahindra-cars/be-6/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Scorpio",
+        "carlink": "https://www.carwale.com/mahindra-cars/scorpio/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra XEV 9S",
+        "carlink": "https://www.carwale.com/mahindra-cars/xev-9s/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra XEV 9e",
+        "carlink": "https://www.carwale.com/mahindra-cars/xev-9e/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Bolero",
+        "carlink": "https://www.carwale.com/mahindra-cars/bolero/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Bolero Neo",
+        "carlink": "https://www.carwale.com/mahindra-cars/bolero-neo/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra XUV 3XO EV",
+        "carlink": "https://www.carwale.com/mahindra-cars/xuv-3xo-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Bolero Neo Plus",
+        "carlink": "https://www.carwale.com/mahindra-cars/bolero-neo-plus/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra BE 6 FE",
+        "carlink": "https://www.carwale.com/mahindra-cars/be-6-fe/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra XUV400",
+        "carlink": "https://www.carwale.com/mahindra-cars/xuv400/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "carlink": "https://www.carwale.com/mahindra-cars/marazzo/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Urban Cruiser Hyryder",
+        "carlink": "https://www.carwale.com/toyota-cars/hyryder/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Innova Hycross",
+        "carlink": "https://www.carwale.com/toyota-cars/innova-hycross/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Fortuner",
+        "carlink": "https://www.carwale.com/toyota-cars/fortuner/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Urban Cruiser Taisor",
+        "carlink": "https://www.carwale.com/toyota-cars/taisor/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Glanza",
+        "carlink": "https://www.carwale.com/toyota-cars/glanza/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Innova Crysta",
+        "carlink": "https://www.carwale.com/toyota-cars/innova-crysta/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Rumion",
+        "carlink": "https://www.carwale.com/toyota-cars/rumion/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Hilux",
+        "carlink": "https://www.carwale.com/toyota-cars/hilux/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Fortuner Legender",
+        "carlink": "https://www.carwale.com/toyota-cars/fortuner-legender/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Camry",
+        "carlink": "https://www.carwale.com/toyota-cars/camry/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Vellfire",
+        "carlink": "https://www.carwale.com/toyota-cars/vellfire/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Toyota Land Cruiser",
+        "carlink": "https://www.carwale.com/toyota-cars/land-cruiser/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Fronx",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/fronx/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Baleno",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/baleno/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/swift/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/dzire/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Grand Vitara",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/brezza/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Victoris",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/victoris/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/ertiga/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Alto K10",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/alto-k10/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki XL6",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/xl6/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/celerio/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki e Vitara",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/e-vitara/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki S-Presso",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/s-presso/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Ignis",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/ignis/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Jimny",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/jimny/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Eeco",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/eeco/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Invicto",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/invicto/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maruti Suzuki Ciaz",
+        "carlink": "https://www.carwale.com/maruti-suzuki-cars/ciaz/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Skoda Kylaq",
+        "carlink": "https://www.carwale.com/skoda-cars/kylaq/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Skoda Kushaq",
+        "carlink": "https://www.carwale.com/skoda-cars/kushaq/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Skoda Slavia",
+        "carlink": "https://www.carwale.com/skoda-cars/slavia/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Skoda Kodiaq",
+        "carlink": "https://www.carwale.com/skoda-cars/kodiaq/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Skoda Octavia RS",
+        "carlink": "https://www.carwale.com/skoda-cars/octaviars/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Syros",
+        "carlink": "https://www.carwale.com/kia-cars/syros/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Seltos",
+        "carlink": "https://www.carwale.com/kia-cars/seltos/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Sonet",
+        "carlink": "https://www.carwale.com/kia-cars/sonet/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Carens",
+        "carlink": "https://www.carwale.com/kia-cars/carens/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Carens Clavis",
+        "carlink": "https://www.carwale.com/kia-cars/carens-clavis/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Carens Clavis EV",
+        "carlink": "https://www.carwale.com/kia-cars/carens-clavis-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia Carnival",
+        "carlink": "https://www.carwale.com/kia-cars/carnival/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia EV6",
+        "carlink": "https://www.carwale.com/kia-cars/ev6/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Kia EV9",
+        "carlink": "https://www.carwale.com/kia-cars/ev9/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volkswagen Taigun",
+        "carlink": "https://www.carwale.com/volkswagen-cars/taigun/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volkswagen Virtus",
+        "carlink": "https://www.carwale.com/volkswagen-cars/virtus/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volkswagen Tayron R-Line",
+        "carlink": "https://www.carwale.com/volkswagen-cars/tayron-r-line/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volkswagen Golf GTI",
+        "carlink": "https://www.carwale.com/volkswagen-cars/golf-gti/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Renault Duster",
+        "carlink": "https://www.carwale.com/renault-cars/duster/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Renault Triber",
+        "carlink": "https://www.carwale.com/renault-cars/triber/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Renault Kwid",
+        "carlink": "https://www.carwale.com/renault-cars/kwid/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Renault Kiger",
+        "carlink": "https://www.carwale.com/renault-cars/kiger/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volkswagen Tiguan R-Line",
+        "carlink": "https://www.carwale.com/volkswagen-cars/tiguan-r-line/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW X1",
+        "carlink": "https://www.carwale.com/bmw-cars/x1/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW 3 Series LWB",
+        "carlink": "https://www.carwale.com/bmw-cars/3-series/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW X7",
+        "carlink": "https://www.carwale.com/bmw-cars/x7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW 2 Series Gran Coupe",
+        "carlink": "https://www.carwale.com/bmw-cars/2-series-gran-coupe/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW M5",
+        "carlink": "https://www.carwale.com/bmw-cars/m5/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW M4",
+        "carlink": "https://www.carwale.com/bmw-cars/m4/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW M340i",
+        "carlink": "https://www.carwale.com/bmw-cars/m340i/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW Z4",
+        "carlink": "https://www.carwale.com/bmw-cars/z4/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW 5 Series",
+        "carlink": "https://www.carwale.com/bmw-cars/5-series/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW X5",
+        "carlink": "https://www.carwale.com/bmw-cars/x5/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW X3",
+        "carlink": "https://www.carwale.com/bmw-cars/x3/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW 7 Series",
+        "carlink": "https://www.carwale.com/bmw-cars/7-series/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW M2",
+        "carlink": "https://www.carwale.com/bmw-cars/m2/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW iX1 LWB",
+        "carlink": "https://www.carwale.com/bmw-cars/ix1-lwb/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW M8",
+        "carlink": "https://www.carwale.com/bmw-cars/m8/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW XM",
+        "carlink": "https://www.carwale.com/bmw-cars/xm/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW iX1",
+        "carlink": "https://www.carwale.com/bmw-cars/ix1/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW i7",
+        "carlink": "https://www.carwale.com/bmw-cars/i7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW i4",
+        "carlink": "https://www.carwale.com/bmw-cars/i4/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW X4 M40i",
+        "carlink": "https://www.carwale.com/bmw-cars/x4/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW i5",
+        "carlink": "https://www.carwale.com/bmw-cars/i5/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BMW iX",
+        "carlink": "https://www.carwale.com/bmw-cars/ix/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Defender",
+        "carlink": "https://www.carwale.com/land-rover-cars/defender/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Range Rover Velar",
+        "carlink": "https://www.carwale.com/land-rover-cars/range-rover-velar/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Range Rover",
+        "carlink": "https://www.carwale.com/land-rover-cars/range-rover/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Range Rover Sport",
+        "carlink": "https://www.carwale.com/land-rover-cars/range-rover-sport/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Range Rover Evoque",
+        "carlink": "https://www.carwale.com/land-rover-cars/range-rover-evoque/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Discovery Sport",
+        "carlink": "https://www.carwale.com/land-rover-cars/discovery-sport/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Land Rover Discovery",
+        "carlink": "https://www.carwale.com/land-rover-cars/discovery/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Windsor EV",
+        "carlink": "https://www.carwale.com/mg-cars/windsor-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Hector",
+        "carlink": "https://www.carwale.com/mg-cars/hector/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Comet EV",
+        "carlink": "https://www.carwale.com/mg-cars/comet-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG M9",
+        "carlink": "https://www.carwale.com/mg-cars/m9/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Cyberster",
+        "carlink": "https://www.carwale.com/mg-cars/cyberster/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Astor",
+        "carlink": "https://www.carwale.com/mg-cars/astor/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Hector Plus",
+        "carlink": "https://www.carwale.com/mg-cars/hector-plus/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG ZS EV",
+        "carlink": "https://www.carwale.com/mg-cars/zs-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "MG Gloster",
+        "carlink": "https://www.carwale.com/mg-cars/gloster/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Nissan Gravite",
+        "carlink": "https://www.carwale.com/nissan-cars/gravite/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Nissan Magnite",
+        "carlink": "https://www.carwale.com/nissan-cars/magnite/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Nissan X-Trail",
+        "carlink": "https://www.carwale.com/nissan-cars/x-trail/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Honda Elevate",
+        "carlink": "https://www.carwale.com/honda-cars/elevate/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Honda Amaze",
+        "carlink": "https://www.carwale.com/honda-cars/amaze/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Honda City",
+        "carlink": "https://www.carwale.com/honda-cars/city/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Honda Amaze 2nd Gen",
+        "carlink": "https://www.carwale.com/honda-cars/amaze-2nd-gen/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Honda City Hybrid eHEV",
+        "carlink": "https://www.carwale.com/honda-cars/city-hybrid/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Jeep Compass",
+        "carlink": "https://www.carwale.com/jeep-cars/compass/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Jeep Meridian",
+        "carlink": "https://www.carwale.com/jeep-cars/meridian/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Jeep Wrangler",
+        "carlink": "https://www.carwale.com/jeep-cars/wrangler/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Jeep Grand Cherokee",
+        "carlink": "https://www.carwale.com/jeep-cars/grand-cherokee/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Vinfast VF 7",
+        "carlink": "https://www.carwale.com/vinfast-cars/vf-7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Vinfast VF 6",
+        "carlink": "https://www.carwale.com/vinfast-cars/vf-6/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Vinfast VF MPV 7",
+        "carlink": "https://www.carwale.com/vinfast-cars/vf-mpv-7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BYD Atto 3",
+        "carlink": "https://www.carwale.com/byd-cars/atto-3/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BYD Sealion 7",
+        "carlink": "https://www.carwale.com/byd-cars/sealion-7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BYD Seal",
+        "carlink": "https://www.carwale.com/byd-cars/seal/?showOfferUpfront=true"
+    },
+    {
+        "carname": "BYD eMax 7",
+        "carlink": "https://www.carwale.com/byd-cars/emax-7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q3",
+        "carlink": "https://www.carwale.com/audi-cars/q3/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi A4",
+        "carlink": "https://www.carwale.com/audi-cars/a4/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi A6",
+        "carlink": "https://www.carwale.com/audi-cars/a6/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi S5 Sportback",
+        "carlink": "https://www.carwale.com/audi-cars/s5-sportback/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q7",
+        "carlink": "https://www.carwale.com/audi-cars/q7/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q5",
+        "carlink": "https://www.carwale.com/audi-cars/q5/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q8",
+        "carlink": "https://www.carwale.com/audi-cars/q8/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q3 Sportback",
+        "carlink": "https://www.carwale.com/audi-cars/q3-sportback/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi A8 L",
+        "carlink": "https://www.carwale.com/audi-cars/a8-l/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi RS5",
+        "carlink": "https://www.carwale.com/audi-cars/rs5/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi RS Q8 Performance",
+        "carlink": "https://www.carwale.com/audi-cars/rs-q8-performance/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi SQ8",
+        "carlink": "https://www.carwale.com/audi-cars/sq8/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi e-tron GT",
+        "carlink": "https://www.carwale.com/audi-cars/e-tron-gt/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q8 e-tron",
+        "carlink": "https://www.carwale.com/audi-cars/q8-e-tron/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi e-tron Sportback",
+        "carlink": "https://www.carwale.com/audi-cars/e-tron-sportback/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi e-tron",
+        "carlink": "https://www.carwale.com/audi-cars/e-tron/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Audi Q8 Sportback e-tron",
+        "carlink": "https://www.carwale.com/audi-cars/q8-sportback-e-tron/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Citroen C3",
+        "carlink": "https://www.carwale.com/citroen-cars/c3/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Citroen Aircross X",
+        "carlink": "https://www.carwale.com/citroen-cars/aircross-x/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Citroen Basalt X",
+        "carlink": "https://www.carwale.com/citroen-cars/basalt-x/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Citroen eC3",
+        "carlink": "https://www.carwale.com/citroen-cars/ec3/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Citroen C5 Aircross",
+        "carlink": "https://www.carwale.com/citroen-cars/c5-aircross/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche 911",
+        "carlink": "https://www.carwale.com/porsche-cars/911/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Cayenne",
+        "carlink": "https://www.carwale.com/porsche-cars/cayenne/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Macan",
+        "carlink": "https://www.carwale.com/porsche-cars/macan/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Panamera",
+        "carlink": "https://www.carwale.com/porsche-cars/panamera/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Taycan",
+        "carlink": "https://www.carwale.com/porsche-cars/taycan/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Cayenne Coupe",
+        "carlink": "https://www.carwale.com/porsche-cars/cayenne-coupe/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Macan Turbo EV",
+        "carlink": "https://www.carwale.com/porsche-cars/macan-turbo-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Porsche Cayenne EV",
+        "carlink": "https://www.carwale.com/porsche-cars/cayenne-ev/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volvo XC90",
+        "carlink": "https://www.carwale.com/volvo-cars/xc90/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volvo EX30",
+        "carlink": "https://www.carwale.com/volvo-cars/ex30/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volvo XC60",
+        "carlink": "https://www.carwale.com/volvo-cars/xc60/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volvo EX40",
+        "carlink": "https://www.carwale.com/volvo-cars/ex40/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Volvo EC40",
+        "carlink": "https://www.carwale.com/volvo-cars/ec40/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lexus ES",
+        "carlink": "https://www.carwale.com/lexus-cars/es/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lexus LX",
+        "carlink": "https://www.carwale.com/lexus-cars/lx/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lexus LM",
+        "carlink": "https://www.carwale.com/lexus-cars/lm/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lexus NX",
+        "carlink": "https://www.carwale.com/lexus-cars/nx/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lexus RX",
+        "carlink": "https://www.carwale.com/lexus-cars/rx/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mini Cooper",
+        "carlink": "https://www.carwale.com/mini-cars/cooper/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mini Cooper S Convertible",
+        "carlink": "https://www.carwale.com/mini-cars/cooper-s-convertible/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mini Countryman",
+        "carlink": "https://www.carwale.com/mini-cars/countryman/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mini Cooper SE",
+        "carlink": "https://www.carwale.com/mini-cars/cooper-se/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Mini Countryman Electric",
+        "carlink": "https://www.carwale.com/mini-cars/countryman-electric/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari 849 Testarossa",
+        "carlink": "https://www.carwale.com/ferrari-cars/849-testarossa/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari Purosangue SUV",
+        "carlink": "https://www.carwale.com/ferrari-cars/purosangue-suv/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari 296 GTB",
+        "carlink": "https://www.carwale.com/ferrari-cars/296-gtb/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari Roma",
+        "carlink": "https://www.carwale.com/ferrari-cars/roma/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari F8 Tributo",
+        "carlink": "https://www.carwale.com/ferrari-cars/f8-tributo/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari Portofino",
+        "carlink": "https://www.carwale.com/ferrari-cars/portofino/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Ferrari 296 GTS",
+        "carlink": "https://www.carwale.com/ferrari-cars/296-gts/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lamborghini Revuelto",
+        "carlink": "https://www.carwale.com/lamborghini-cars/revuelto/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lamborghini Urus SE",
+        "carlink": "https://www.carwale.com/lamborghini-cars/urus-se/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lamborghini Temerario",
+        "carlink": "https://www.carwale.com/lamborghini-cars/temerario/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Force Motors Gurkha",
+        "carlink": "https://www.carwale.com/force-motors-cars/gurkha/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Force Motors Trax Cruiser",
+        "carlink": "https://www.carwale.com/force-motors-cars/trax-cruiser/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Rolls-Royce Phantom",
+        "carlink": "https://www.carwale.com/rolls-royce-cars/phantom/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Rolls-Royce Cullinan",
+        "carlink": "https://www.carwale.com/rolls-royce-cars/cullinan/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Rolls-Royce Spectre",
+        "carlink": "https://www.carwale.com/rolls-royce-cars/spectre/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Jaguar F-Pace",
+        "carlink": "https://www.carwale.com/jaguar-cars/f-pace/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Tesla Model Y",
+        "carlink": "https://www.carwale.com/tesla-cars/model-y/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Isuzu V-Cross",
+        "carlink": "https://www.carwale.com/isuzu-cars/v-cross/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Isuzu Hi-Lander",
+        "carlink": "https://www.carwale.com/isuzu-cars/hi-lander/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Isuzu MU-X",
+        "carlink": "https://www.carwale.com/isuzu-cars/mu-x/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati Ghibli",
+        "carlink": "https://www.carwale.com/maserati-cars/ghibli/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati MC20",
+        "carlink": "https://www.carwale.com/maserati-cars/mc20/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati Levante",
+        "carlink": "https://www.carwale.com/maserati-cars/levante/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati MCPura",
+        "carlink": "https://www.carwale.com/maserati-cars/mcpura/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati Grecale",
+        "carlink": "https://www.carwale.com/maserati-cars/grecale/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati Quattroporte",
+        "carlink": "https://www.carwale.com/maserati-cars/quattroporte/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Maserati GranTurismo",
+        "carlink": "https://www.carwale.com/maserati-cars/granturismo/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Aston Martin Vanquish",
+        "carlink": "https://www.carwale.com/aston-martin-cars/vanquish/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Aston Martin DB11",
+        "carlink": "https://www.carwale.com/aston-martin-cars/db11/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Aston Martin Vantage",
+        "carlink": "https://www.carwale.com/aston-martin-cars/vantage/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Aston Martin DBX",
+        "carlink": "https://www.carwale.com/aston-martin-cars/dbx/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Aston Martin DB12",
+        "carlink": "https://www.carwale.com/aston-martin-cars/db12/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Bentley Bentayga",
+        "carlink": "https://www.carwale.com/bentley-cars/bentayga/?showOfferUpfront=true"
+    },
+    {
+        "carname": "McLaren 750S",
+        "carlink": "https://www.carwale.com/mclaren-cars/750s/?showOfferUpfront=true"
+    },
+    {
+        "carname": "McLaren 720S",
+        "carlink": "https://www.carwale.com/mclaren-cars/720s/?showOfferUpfront=true"
+    },
+    {
+        "carname": "McLaren GT",
+        "carlink": "https://www.carwale.com/mclaren-cars/gt/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lotus Emeya",
+        "carlink": "https://www.carwale.com/lotus-cars/emeya/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lotus Eletre",
+        "carlink": "https://www.carwale.com/lotus-cars/eletre/?showOfferUpfront=true"
+    },
+    {
+        "carname": "Lotus Emira",
+        "carlink": "https://www.carwale.com/lotus-cars/emira/?showOfferUpfront=true"
+    }
+]

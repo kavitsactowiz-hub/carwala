@@ -1,0 +1,1555 @@
+{
+    "Toyota Rumion": {
+        "Rumion E": "https://www.carwale.com/toyota-cars/rumion/e/",
+        "Rumion S": "https://www.carwale.com/toyota-cars/rumion/s/",
+        "Rumion G": "https://www.carwale.com/toyota-cars/rumion/g/",
+        "Rumion V": "https://www.carwale.com/toyota-cars/rumion/v/"
+    },
+    "Toyota Innova Crysta": {
+        "Innova Crysta GX": "https://www.carwale.com/toyota-cars/innova-crysta/gx/",
+        "Innova Crysta GX Plus": "https://www.carwale.com/toyota-cars/innova-crysta/gx-plus/",
+        "Innova Crysta VX": "https://www.carwale.com/toyota-cars/innova-crysta/vx/",
+        "Innova Crysta ZX": "https://www.carwale.com/toyota-cars/innova-crysta/zx/"
+    },
+    "Toyota Urban Cruiser Taisor": {
+        "Urban Cruiser Taisor E": "https://www.carwale.com/toyota-cars/taisor/e/",
+        "Urban Cruiser Taisor S": "https://www.carwale.com/toyota-cars/taisor/s/",
+        "Urban Cruiser Taisor S Plus": "https://www.carwale.com/toyota-cars/taisor/s-plus/",
+        "Urban Cruiser Taisor G": "https://www.carwale.com/toyota-cars/taisor/g/",
+        "Urban Cruiser Taisor V": "https://www.carwale.com/toyota-cars/taisor/v/"
+    },
+    "Toyota Glanza": {
+        "Glanza E": "https://www.carwale.com/toyota-cars/glanza/e/",
+        "Glanza S": "https://www.carwale.com/toyota-cars/glanza/s/",
+        "Glanza G": "https://www.carwale.com/toyota-cars/glanza/g/",
+        "Glanza V": "https://www.carwale.com/toyota-cars/glanza/v/"
+    },
+    "Toyota Urban Cruiser Hyryder": {
+        "Urban Cruiser Hyryder E": "https://www.carwale.com/toyota-cars/hyryder/e/",
+        "Urban Cruiser Hyryder S": "https://www.carwale.com/toyota-cars/hyryder/s/",
+        "Urban Cruiser Hyryder G (O)": "https://www.carwale.com/toyota-cars/hyryder/g-o/",
+        "Urban Cruiser Hyryder G": "https://www.carwale.com/toyota-cars/hyryder/g/",
+        "Urban Cruiser Hyryder V": "https://www.carwale.com/toyota-cars/hyryder/v/"
+    },
+    "Toyota Fortuner": {
+        "Fortuner 4x2": "https://www.carwale.com/toyota-cars/fortuner/4x2/",
+        "Fortuner 4x4": "https://www.carwale.com/toyota-cars/fortuner/4x4/",
+        "Fortuner GR-S": "https://www.carwale.com/toyota-cars/fortuner/gr-s/"
+    },
+    "Toyota Innova Hycross": {
+        "Innova Hycross GX": "https://www.carwale.com/toyota-cars/innova-hycross/gx/",
+        "Innova Hycross GX (O)": "https://www.carwale.com/toyota-cars/innova-hycross/gx-o/",
+        "Innova Hycross VX": "https://www.carwale.com/toyota-cars/innova-hycross/vx/",
+        "Innova Hycross VX (O)": "https://www.carwale.com/toyota-cars/innova-hycross/vx-o/",
+        "Innova Hycross ZX": "https://www.carwale.com/toyota-cars/innova-hycross/zx/",
+        "Innova Hycross ZX (O)": "https://www.carwale.com/toyota-cars/innova-hycross/zx-o/"
+    },
+    "Toyota Hilux": {
+        "Hilux STD": "https://www.carwale.com/toyota-cars/hilux/std/",
+        "Hilux High": "https://www.carwale.com/toyota-cars/hilux/high/",
+        "Hilux Black Edition": "https://www.carwale.com/toyota-cars/hilux/black-edition/"
+    },
+    "Toyota Fortuner Legender": {
+        "Fortuner Legender 4X2": "https://www.carwale.com/toyota-cars/fortuner-legender/4x2/",
+        "Fortuner Legender 4X4": "https://www.carwale.com/toyota-cars/fortuner-legender/4x4/"
+    },
+    "Toyota Vellfire": {
+        "Vellfire Hi": "https://www.carwale.com/toyota-cars/vellfire/hi/",
+        "Vellfire VIP \u2013 Executive Lounge": "https://www.carwale.com/toyota-cars/vellfire/vip-executive-lounge/"
+    },
+    "Toyota Camry": {
+        "Camry Elegant": "https://www.carwale.com/toyota-cars/camry/elegant/",
+        "Camry Sprint Edition": "https://www.carwale.com/toyota-cars/camry/sprint-edition/"
+    },
+    "Toyota Land Cruiser": {
+        "Land Cruiser ZX": "https://www.carwale.com/toyota-cars/land-cruiser/zx/",
+        "Land Cruiser GR-S": "https://www.carwale.com/toyota-cars/land-cruiser/gr-s/"
+    },
+    "Hyundai Venue": {
+        "Venue HX 2": "https://www.carwale.com/hyundai-cars/venue/hx-2/",
+        "Venue HX 4": "https://www.carwale.com/hyundai-cars/venue/hx-4/",
+        "Venue HX 5": "https://www.carwale.com/hyundai-cars/venue/hx-5/",
+        "Venue HX 5 Plus": "https://www.carwale.com/hyundai-cars/venue/hx-5-plus/",
+        "Venue HX 6": "https://www.carwale.com/hyundai-cars/venue/hx-6/",
+        "Venue HX 6T": "https://www.carwale.com/hyundai-cars/venue/hx-6t/",
+        "Venue HX 8": "https://www.carwale.com/hyundai-cars/venue/hx-8/",
+        "Venue HX 7": "https://www.carwale.com/hyundai-cars/venue/hx-7/",
+        "Venue HX 10": "https://www.carwale.com/hyundai-cars/venue/hx-10/"
+    },
+    "Hyundai Exter": {
+        "Exter HX 2": "https://www.carwale.com/hyundai-cars/exter/hx-2/",
+        "Exter HX 3": "https://www.carwale.com/hyundai-cars/exter/hx-3/",
+        "Exter HX 4": "https://www.carwale.com/hyundai-cars/exter/hx-4/",
+        "Exter HX 6": "https://www.carwale.com/hyundai-cars/exter/hx-6/",
+        "Exter HX 4 Plus": "https://www.carwale.com/hyundai-cars/exter/hx-4-plus/",
+        "Exter HX 8": "https://www.carwale.com/hyundai-cars/exter/hx-8/",
+        "Exter HX 10": "https://www.carwale.com/hyundai-cars/exter/hx-10/"
+    },
+    "Maruti Suzuki Fronx": {
+        "Fronx Sigma": "https://www.carwale.com/maruti-suzuki-cars/fronx/sigma/",
+        "Fronx Delta": "https://www.carwale.com/maruti-suzuki-cars/fronx/delta/",
+        "Fronx Delta Plus": "https://www.carwale.com/maruti-suzuki-cars/fronx/delta-plus/",
+        "Fronx Zeta": "https://www.carwale.com/maruti-suzuki-cars/fronx/zeta/",
+        "Fronx Alpha": "https://www.carwale.com/maruti-suzuki-cars/fronx/alpha/"
+    },
+    "Hyundai Creta": {
+        "Creta E": "https://www.carwale.com/hyundai-cars/creta/e/",
+        "Creta EX": "https://www.carwale.com/hyundai-cars/creta/ex/",
+        "Creta EX (O)": "https://www.carwale.com/hyundai-cars/creta/ex-o/",
+        "Creta S": "https://www.carwale.com/hyundai-cars/creta/s/",
+        "Creta S (O)": "https://www.carwale.com/hyundai-cars/creta/s-o/",
+        "Creta S (O) Knight": "https://www.carwale.com/hyundai-cars/creta/s-o-knight/",
+        "Creta SX": "https://www.carwale.com/hyundai-cars/creta/sx/",
+        "Creta SX Tech": "https://www.carwale.com/hyundai-cars/creta/sx-tech/",
+        "Creta SX Premium": "https://www.carwale.com/hyundai-cars/creta/sx-premium/",
+        "Creta SX (O)": "https://www.carwale.com/hyundai-cars/creta/sx-o/",
+        "Creta SX (O) Knight": "https://www.carwale.com/hyundai-cars/creta/sx-o-knight/",
+        "Creta King Edition": "https://www.carwale.com/hyundai-cars/creta/king-edition/",
+        "Creta King Knight Edition": "https://www.carwale.com/hyundai-cars/creta/king-knight-edition/",
+        "Creta King Limited Edition": "https://www.carwale.com/hyundai-cars/creta/king-limited-edition/"
+    },
+    "Hyundai i20": {
+        "i20 Era": "https://www.carwale.com/hyundai-cars/i20/era/",
+        "i20 Magna Executive": "https://www.carwale.com/hyundai-cars/i20/magna-executive/",
+        "i20 Magna": "https://www.carwale.com/hyundai-cars/i20/magna/",
+        "i20 Sportz": "https://www.carwale.com/hyundai-cars/i20/sportz/",
+        "i20 Sportz (O)": "https://www.carwale.com/hyundai-cars/i20/sportz-o/",
+        "i20 Sportz (O) Knight Edition": "https://www.carwale.com/hyundai-cars/i20/sportz-o-knight-edition/",
+        "i20 Asta": "https://www.carwale.com/hyundai-cars/i20/asta/",
+        "i20 Asta (O)": "https://www.carwale.com/hyundai-cars/i20/asta-o/",
+        "i20 Asta (O) Knight Edition": "https://www.carwale.com/hyundai-cars/i20/asta-o-knight-edition/"
+    },
+    "Maruti Suzuki Baleno": {
+        "Baleno Sigma": "https://www.carwale.com/maruti-suzuki-cars/baleno/sigma/",
+        "Baleno Delta": "https://www.carwale.com/maruti-suzuki-cars/baleno/delta/",
+        "Baleno Zeta": "https://www.carwale.com/maruti-suzuki-cars/baleno/zeta/",
+        "Baleno Alpha": "https://www.carwale.com/maruti-suzuki-cars/baleno/alpha/"
+    },
+    "Hyundai Verna": {
+        "Verna HX 2": "https://www.carwale.com/hyundai-cars/verna/hx-2/",
+        "Verna HX 4": "https://www.carwale.com/hyundai-cars/verna/hx-4/",
+        "Verna HX 6": "https://www.carwale.com/hyundai-cars/verna/hx-6/",
+        "Verna HX 6 Plus": "https://www.carwale.com/hyundai-cars/verna/hx-6-plus/",
+        "Verna HX 8": "https://www.carwale.com/hyundai-cars/verna/hx-8/",
+        "Verna HX 10": "https://www.carwale.com/hyundai-cars/verna/hx-10/"
+    },
+    "Maruti Suzuki Swift": {
+        "Swift LXi": "https://www.carwale.com/maruti-suzuki-cars/swift/lxi/",
+        "Swift VXi": "https://www.carwale.com/maruti-suzuki-cars/swift/vxi/",
+        "Swift VXi (O)": "https://www.carwale.com/maruti-suzuki-cars/swift/vxi-o/",
+        "Swift ZXi": "https://www.carwale.com/maruti-suzuki-cars/swift/zxi/",
+        "Swift ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/swift/zxi-plus/"
+    },
+    "Maruti Suzuki Dzire": {
+        "Dzire LXi": "https://www.carwale.com/maruti-suzuki-cars/dzire/lxi/",
+        "Dzire VXi": "https://www.carwale.com/maruti-suzuki-cars/dzire/vxi/",
+        "Dzire ZXi": "https://www.carwale.com/maruti-suzuki-cars/dzire/zxi/",
+        "Dzire ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/dzire/zxi-plus/"
+    },
+    "Hyundai Grand i10 Nios": {
+        "Grand i10 Nios Era": "https://www.carwale.com/hyundai-cars/grand-i10-nios/era/",
+        "Grand i10 Nios Magna": "https://www.carwale.com/hyundai-cars/grand-i10-nios/magna/",
+        "Grand i10 Nios Corporate": "https://www.carwale.com/hyundai-cars/grand-i10-nios/corporate/",
+        "Grand i10 Nios Sportz": "https://www.carwale.com/hyundai-cars/grand-i10-nios/sportz/",
+        "Grand i10 Nios Sportz (O)": "https://www.carwale.com/hyundai-cars/grand-i10-nios/sportz-o/",
+        "Grand i10 Nios Asta": "https://www.carwale.com/hyundai-cars/grand-i10-nios/asta/"
+    },
+    "Hyundai Aura": {
+        "Aura E": "https://www.carwale.com/hyundai-cars/aura/e/",
+        "Aura S": "https://www.carwale.com/hyundai-cars/aura/s/",
+        "Aura Corporate": "https://www.carwale.com/hyundai-cars/aura/corporate/",
+        "Aura SX": "https://www.carwale.com/hyundai-cars/aura/sx/",
+        "Aura SX Plus": "https://www.carwale.com/hyundai-cars/aura/sx-plus/",
+        "Aura SX (O)": "https://www.carwale.com/hyundai-cars/aura/sx-o/"
+    },
+    "Maruti Suzuki Grand Vitara": {
+        "Grand Vitara Sigma": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/sigma/",
+        "Grand Vitara Delta": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/delta/",
+        "Grand Vitara Zeta": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta/",
+        "Grand Vitara Zeta (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-o/",
+        "Grand Vitara Alpha": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha/",
+        "Grand Vitara Alpha (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-o/",
+        "Grand Vitara Delta Plus": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/delta-plus/",
+        "Grand Vitara Zeta Plus": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus/",
+        "Grand Vitara Zeta Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus-o/",
+        "Grand Vitara Alpha Plus": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus/",
+        "Grand Vitara Alpha Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus-o/",
+        "Grand Vitara Phantom Blaq Edition": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/phantom-blaq-edition/"
+    },
+    "Hyundai Venue N Line": {
+        "Venue N Line N6": "https://www.carwale.com/hyundai-cars/venue-n-line/n6/",
+        "Venue N Line N10": "https://www.carwale.com/hyundai-cars/venue-n-line/n10/"
+    },
+    "Hyundai Alcazar": {
+        "Alcazar Executive": "https://www.carwale.com/hyundai-cars/alcazar/executive/",
+        "Alcazar Prestige": "https://www.carwale.com/hyundai-cars/alcazar/prestige/",
+        "Alcazar Corporate": "https://www.carwale.com/hyundai-cars/alcazar/corporate/",
+        "Alcazar Platinum": "https://www.carwale.com/hyundai-cars/alcazar/platinum/",
+        "Alcazar Signature": "https://www.carwale.com/hyundai-cars/alcazar/signature/",
+        "Alcazar Signature Knight": "https://www.carwale.com/hyundai-cars/alcazar/signature-knight/"
+    },
+    "Hyundai i20 N Line": {
+        "i20 N Line N6": "https://www.carwale.com/hyundai-cars/i20-n-line/n6/",
+        "i20 N Line N8": "https://www.carwale.com/hyundai-cars/i20-n-line/n8/"
+    },
+    "Hyundai Creta N Line": {
+        "Creta N Line N8": "https://www.carwale.com/hyundai-cars/creta-n-line/n8/",
+        "Creta N Line N10": "https://www.carwale.com/hyundai-cars/creta-n-line/n10/"
+    },
+    "Hyundai Ioniq 5": {
+        "Ioniq 5 RWD": "https://www.carwale.com/hyundai-cars/ioniq-5/rwd/"
+    },
+    "Hyundai Creta Electric": {
+        "Creta Electric Executive": "https://www.carwale.com/hyundai-cars/creta-electric/executive/",
+        "Creta Electric Smart": "https://www.carwale.com/hyundai-cars/creta-electric/smart/",
+        "Creta Electric Executive Tech": "https://www.carwale.com/hyundai-cars/creta-electric/executive-tech/",
+        "Creta Electric Smart (O)": "https://www.carwale.com/hyundai-cars/creta-electric/smart-o/",
+        "Creta Electric Premium": "https://www.carwale.com/hyundai-cars/creta-electric/premium/",
+        "Creta Electric Executive (O)": "https://www.carwale.com/hyundai-cars/creta-electric/executive-o/",
+        "Creta Electric Excellence": "https://www.carwale.com/hyundai-cars/creta-electric/excellence/",
+        "Creta Electric Excellence Knight Edition": "https://www.carwale.com/hyundai-cars/creta-electric/excellence-knight-edition/",
+        "Creta Electric Smart (O) LR": "https://www.carwale.com/hyundai-cars/creta-electric/smart-o-lr/",
+        "Creta Electric Excellence LR": "https://www.carwale.com/hyundai-cars/creta-electric/excellence-lr/",
+        "Creta Electric Excellence LR Knight Edition": "https://www.carwale.com/hyundai-cars/creta-electric/excellence-lr-knight-edition/"
+    },
+    "Maruti Suzuki Brezza": {
+        "Brezza  LXi": "https://www.carwale.com/maruti-suzuki-cars/brezza/lxi/",
+        "Brezza VXi": "https://www.carwale.com/maruti-suzuki-cars/brezza/vxi/",
+        "Brezza ZXi": "https://www.carwale.com/maruti-suzuki-cars/brezza/zxi/",
+        "Brezza Zxi Plus": "https://www.carwale.com/maruti-suzuki-cars/brezza/zxi-plus/"
+    },
+    "Maruti Suzuki Wagon R": {
+        "Wagon R LXi": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/lxi/",
+        "Wagon R VXi": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/vxi/",
+        "Wagon R ZXi": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/zxi/",
+        "Wagon R ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/zxi-plus/",
+        "Wagon R Flex Fuel": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/flex-fuel/"
+    },
+    "Maruti Suzuki Victoris": {
+        "Victoris LXi": "https://www.carwale.com/maruti-suzuki-cars/victoris/lxi/",
+        "Victoris VXi": "https://www.carwale.com/maruti-suzuki-cars/victoris/vxi/",
+        "Victoris ZXi": "https://www.carwale.com/maruti-suzuki-cars/victoris/zxi/",
+        "Victoris ZXi (O)": "https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-o/",
+        "Victoris ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-plus/",
+        "Victoris ZXi Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/victoris/zxi-plus-o/"
+    },
+    "Maruti Suzuki Ertiga": {
+        "Ertiga Lxi": "https://www.carwale.com/maruti-suzuki-cars/ertiga/lxi/",
+        "Ertiga VXi": "https://www.carwale.com/maruti-suzuki-cars/ertiga/vxi/",
+        "Ertiga ZXi": "https://www.carwale.com/maruti-suzuki-cars/ertiga/zxi/",
+        "Ertiga ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/ertiga/zxi-plus/"
+    },
+    "Maruti Suzuki Alto K10": {
+        "Alto K10 STD (O)": "https://www.carwale.com/maruti-suzuki-cars/alto-k10/std-o/",
+        "Alto K10 LXi (O)": "https://www.carwale.com/maruti-suzuki-cars/alto-k10/lxi-o/",
+        "Alto K10 VXi (O)": "https://www.carwale.com/maruti-suzuki-cars/alto-k10/vxi-o/",
+        "Alto K10 VXi Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/alto-k10/vxi-plus-o/"
+    },
+    "Maruti Suzuki XL6": {
+        "XL6 Zeta": "https://www.carwale.com/maruti-suzuki-cars/xl6/zeta/",
+        "XL6 Alpha": "https://www.carwale.com/maruti-suzuki-cars/xl6/alpha/",
+        "XL6 Alpha Plus": "https://www.carwale.com/maruti-suzuki-cars/xl6/alpha-plus/"
+    },
+    "Maruti Suzuki e Vitara": {
+        "e Vitara Delta": "https://www.carwale.com/maruti-suzuki-cars/e-vitara/delta/",
+        "e Vitara Zeta": "https://www.carwale.com/maruti-suzuki-cars/e-vitara/zeta/",
+        "e Vitara Alpha": "https://www.carwale.com/maruti-suzuki-cars/e-vitara/alpha/"
+    },
+    "Maruti Suzuki Celerio": {
+        "Celerio LXi": "https://www.carwale.com/maruti-suzuki-cars/celerio/lxi/",
+        "Celerio VXi": "https://www.carwale.com/maruti-suzuki-cars/celerio/vxi/",
+        "Celerio ZXi": "https://www.carwale.com/maruti-suzuki-cars/celerio/zxi/",
+        "Celerio ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/celerio/zxi-plus/"
+    },
+    "Maruti Suzuki Ignis": {
+        "Ignis Sigma": "https://www.carwale.com/maruti-suzuki-cars/ignis/sigma/",
+        "Ignis Delta": "https://www.carwale.com/maruti-suzuki-cars/ignis/delta/",
+        "Ignis Zeta": "https://www.carwale.com/maruti-suzuki-cars/ignis/zeta/",
+        "Ignis Alpha": "https://www.carwale.com/maruti-suzuki-cars/ignis/alpha/"
+    },
+    "Maruti Suzuki S-Presso": {
+        "S-Presso STD (O)": "https://www.carwale.com/maruti-suzuki-cars/s-presso/std-o/",
+        "S-Presso LXi (O)": "https://www.carwale.com/maruti-suzuki-cars/s-presso/lxi-o/",
+        "S-Presso VXi (O)": "https://www.carwale.com/maruti-suzuki-cars/s-presso/vxi-o/",
+        "S-Presso VXi Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/s-presso/vxi-plus-o/"
+    },
+    "Maruti Suzuki Jimny": {
+        "Jimny Zeta": "https://www.carwale.com/maruti-suzuki-cars/jimny/zeta/",
+        "Jimny Alpha": "https://www.carwale.com/maruti-suzuki-cars/jimny/alpha/"
+    },
+    "Maruti Suzuki Invicto": {
+        "Invicto Zeta Plus": "https://www.carwale.com/maruti-suzuki-cars/invicto/zeta-plus/",
+        "Invicto Alpha Plus": "https://www.carwale.com/maruti-suzuki-cars/invicto/alpha-plus/"
+    },
+    "Maruti Suzuki Ciaz": {
+        "Ciaz Sigma": "https://www.carwale.com/maruti-suzuki-cars/ciaz/sigma/",
+        "Ciaz Delta": "https://www.carwale.com/maruti-suzuki-cars/ciaz/delta/",
+        "Ciaz Zeta": "https://www.carwale.com/maruti-suzuki-cars/ciaz/zeta/",
+        "Ciaz Alpha": "https://www.carwale.com/maruti-suzuki-cars/ciaz/alpha/"
+    },
+    "Maruti Suzuki Eeco": {
+        "Eeco STD (O)": "https://www.carwale.com/maruti-suzuki-cars/eeco/std-o/",
+        "Eeco AC (O)": "https://www.carwale.com/maruti-suzuki-cars/eeco/ac-o/"
+    },
+    "Grand Vitara": {
+        "Grand Vitara Sigma": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/sigma/",
+        "Grand Vitara Delta": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/delta/",
+        "Grand Vitara Zeta": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta/",
+        "Grand Vitara Zeta (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-o/",
+        "Grand Vitara Alpha": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha/",
+        "Grand Vitara Alpha (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-o/",
+        "Grand Vitara Delta Plus": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/delta-plus/",
+        "Grand Vitara Zeta Plus": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus/",
+        "Grand Vitara Zeta Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/zeta-plus-o/",
+        "Grand Vitara Alpha Plus": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus/",
+        "Grand Vitara Alpha Plus (O)": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/alpha-plus-o/",
+        "Grand Vitara Phantom Blaq Edition": "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/phantom-blaq-edition/"
+    },
+    "Wagon R": {
+        "Wagon R LXi": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/lxi/",
+        "Wagon R VXi": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/vxi/",
+        "Wagon R ZXi": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/zxi/",
+        "Wagon R ZXi Plus": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/zxi-plus/",
+        "Wagon R Flex Fuel": "https://www.carwale.com/maruti-suzuki-cars/wagon-r/flex-fuel/"
+    },
+    "Tata Punch": {
+        "Punch Smart": "https://www.carwale.com/tata-cars/punch/smart/",
+        "Punch Pure": "https://www.carwale.com/tata-cars/punch/pure/",
+        "Punch Pure Plus": "https://www.carwale.com/tata-cars/punch/pure-plus/",
+        "Punch Pure Plus (S)": "https://www.carwale.com/tata-cars/punch/pure-plus-s/",
+        "Punch Adventure": "https://www.carwale.com/tata-cars/punch/adventure/",
+        "Punch Adventure (S)": "https://www.carwale.com/tata-cars/punch/adventure-s/",
+        "Punch Accomplished ": "https://www.carwale.com/tata-cars/punch/accomplished/",
+        "Punch Accomplished Plus ": "https://www.carwale.com/tata-cars/punch/accomplished-plus/",
+        "Punch Accomplished Plus (S)": "https://www.carwale.com/tata-cars/punch/accomplished-plus-s/"
+    },
+    "Tata Nexon": {
+        "Nexon Smart": "https://www.carwale.com/tata-cars/nexon/smart/",
+        "Nexon Smart Plus": "https://www.carwale.com/tata-cars/nexon/smart-plus/",
+        "Nexon Smart Plus (S)": "https://www.carwale.com/tata-cars/nexon/smart-plus-s/",
+        "Nexon Pure Plus": "https://www.carwale.com/tata-cars/nexon/pure-plus/",
+        "Nexon Pure Plus (S)": "https://www.carwale.com/tata-cars/nexon/pure-plus-s/",
+        "Nexon Creative": "https://www.carwale.com/tata-cars/nexon/creative/",
+        "Nexon Creative Plus (S)": "https://www.carwale.com/tata-cars/nexon/creative-plus-s/",
+        "Nexon Creative Plus (PS)": "https://www.carwale.com/tata-cars/nexon/creative-plus-ps/",
+        "Nexon Fearless Plus (PS)": "https://www.carwale.com/tata-cars/nexon/fearless-plus-ps/",
+        "Nexon Fearless Plus A (PS)": "https://www.carwale.com/tata-cars/nexon/fearless-plus-a-ps/"
+    },
+    "Tata Tiago": {
+        "Tiago XE": "https://www.carwale.com/tata-cars/tiago/xe/",
+        "Tiago XM": "https://www.carwale.com/tata-cars/tiago/xm/",
+        "Tiago XT": "https://www.carwale.com/tata-cars/tiago/xt/",
+        "Tiago XZ": "https://www.carwale.com/tata-cars/tiago/xz/",
+        "Tiago XZ Plus": "https://www.carwale.com/tata-cars/tiago/xz-plus/"
+    },
+    "Tata Sierra": {
+        "Sierra Smart Plus": "https://www.carwale.com/tata-cars/sierra/smart-plus/",
+        "Sierra Pure": "https://www.carwale.com/tata-cars/sierra/pure/",
+        "Sierra Pure Plus": "https://www.carwale.com/tata-cars/sierra/pure-plus/",
+        "Sierra Adventure": "https://www.carwale.com/tata-cars/sierra/adventure/",
+        "Sierra Adventure Plus": "https://www.carwale.com/tata-cars/sierra/adventure-plus/",
+        "Sierra Accomplished ": "https://www.carwale.com/tata-cars/sierra/accomplished/",
+        "Sierra Accomplished Plus": "https://www.carwale.com/tata-cars/sierra/accomplished-plus/"
+    },
+    "Tata Harrier": {
+        "Harrier Smart": "https://www.carwale.com/tata-cars/harrier/smart/",
+        "Harrier Pure X": "https://www.carwale.com/tata-cars/harrier/pure-x/",
+        "Harrier Adventure X": "https://www.carwale.com/tata-cars/harrier/adventure-x/",
+        "Harrier Adventure X Plus ": "https://www.carwale.com/tata-cars/harrier/adventure-x-plus/",
+        "Harrier Adventure X Dark Edition": "https://www.carwale.com/tata-cars/harrier/adventure-x-dark-edition/",
+        "Harrier Adventure X Plus  Dark Edition": "https://www.carwale.com/tata-cars/harrier/adventure-x-plus-dark-edition/",
+        "Harrier Pure X Dark Edition": "https://www.carwale.com/tata-cars/harrier/pure-x-dark-edition/",
+        "Harrier Fearless X": "https://www.carwale.com/tata-cars/harrier/fearless-x/",
+        "Harrier Fearless X Dark Edition": "https://www.carwale.com/tata-cars/harrier/fearless-x-dark-edition/",
+        "Harrier Fearless X Plus ": "https://www.carwale.com/tata-cars/harrier/fearless-x-plus/",
+        "Harrier Fearless Plus Dark Edition": "https://www.carwale.com/tata-cars/harrier/fearless-plus-dark-edition/",
+        "Harrier Fearless Ultra": "https://www.carwale.com/tata-cars/harrier/fearless-ultra/",
+        "Harrier Fearless Ultra Red Dark": "https://www.carwale.com/tata-cars/harrier/fearless-ultra-red-dark/",
+        "Harrier Fearless X Plus  Dark Edition": "https://www.carwale.com/tata-cars/harrier/fearless-x-plus-dark-edition/",
+        "Harrier Stealth Edition": "https://www.carwale.com/tata-cars/harrier/stealth-edition/"
+    },
+    "Tata Safari": {
+        "Safari Smart": "https://www.carwale.com/tata-cars/safari/smart/",
+        "Safari Pure X": "https://www.carwale.com/tata-cars/safari/pure-x/",
+        "Safari Pure X Dark": "https://www.carwale.com/tata-cars/safari/pure-x-dark/",
+        "Safari Adventure X Plus ": "https://www.carwale.com/tata-cars/safari/adventure-x-plus/",
+        "Safari Pure X Dark Edition": "https://www.carwale.com/tata-cars/safari/pure-x-dark-edition/",
+        "Safari Adventure X Plus Dark": "https://www.carwale.com/tata-cars/safari/adventure-x-plus-dark/",
+        "Safari Accomplished X": "https://www.carwale.com/tata-cars/safari/accomplished-x/",
+        "Safari Accomplished X Dark": "https://www.carwale.com/tata-cars/safari/accomplished-x-dark/",
+        "Safari Accomplished X Plus ": "https://www.carwale.com/tata-cars/safari/accomplished-x-plus/",
+        "Safari Accomplished X Plus Dark": "https://www.carwale.com/tata-cars/safari/accomplished-x-plus-dark/",
+        "Safari Accomplished Ultra": "https://www.carwale.com/tata-cars/safari/accomplished-ultra/",
+        "Safari Accomplished Ultra Red Dark": "https://www.carwale.com/tata-cars/safari/accomplished-ultra-red-dark/",
+        "Safari Accomplished X Plus Stealth Edition": "https://www.carwale.com/tata-cars/safari/accomplished-x-plus-stealth-edition/"
+    },
+    "Tata Punch EV": {
+        "Punch EV Smart": "https://www.carwale.com/tata-cars/punch-ev/smart/",
+        "Punch EV Smart Plus": "https://www.carwale.com/tata-cars/punch-ev/smart-plus/",
+        "Punch EV Adventure": "https://www.carwale.com/tata-cars/punch-ev/adventure/",
+        "Punch EV Empowered ": "https://www.carwale.com/tata-cars/punch-ev/empowered/",
+        "Punch EV Empowered Plus S": "https://www.carwale.com/tata-cars/punch-ev/empowered-plus-s/"
+    },
+    "Tata Altroz": {
+        "Altroz Smart": "https://www.carwale.com/tata-cars/altroz/smart/",
+        "Altroz Pure": "https://www.carwale.com/tata-cars/altroz/pure/",
+        "Altroz Pure S": "https://www.carwale.com/tata-cars/altroz/pure-s/",
+        "Altroz Creative": "https://www.carwale.com/tata-cars/altroz/creative/",
+        "Altroz Creative S": "https://www.carwale.com/tata-cars/altroz/creative-s/",
+        "Altroz Accomplished S": "https://www.carwale.com/tata-cars/altroz/accomplished-s/",
+        "Altroz Accomplished Plus S": "https://www.carwale.com/tata-cars/altroz/accomplished-plus-s/"
+    },
+    "Tata Nexon EV": {
+        "Nexon EV Creative Plus": "https://www.carwale.com/tata-cars/nexon-ev/creative-plus/",
+        "Nexon EV Fearless": "https://www.carwale.com/tata-cars/nexon-ev/fearless/",
+        "Nexon EV Creative": "https://www.carwale.com/tata-cars/nexon-ev/creative/",
+        "Nexon EV Empowered": "https://www.carwale.com/tata-cars/nexon-ev/empowered/",
+        "Nexon EV Empowered Plus A ": "https://www.carwale.com/tata-cars/nexon-ev/empowered-plus-a/"
+    },
+    "Tata Harrier EV": {
+        "Harrier EV Adventure": "https://www.carwale.com/tata-cars/harrier-ev/adventure/",
+        "Harrier EV Adventure S ": "https://www.carwale.com/tata-cars/harrier-ev/adventure-s/",
+        "Harrier EV Fearless Plus": "https://www.carwale.com/tata-cars/harrier-ev/fearless-plus/",
+        "Harrier EV Empowered": "https://www.carwale.com/tata-cars/harrier-ev/empowered/",
+        "Harrier EV Empowered Stealth Edition": "https://www.carwale.com/tata-cars/harrier-ev/empowered-stealth-edition/"
+    },
+    "Tata Tiago EV": {
+        "Tiago EV XE": "https://www.carwale.com/tata-cars/tiago-ev/xe/",
+        "Tiago EV XT": "https://www.carwale.com/tata-cars/tiago-ev/xt/",
+        "Tiago EV XZ Plus Tech": "https://www.carwale.com/tata-cars/tiago-ev/xz-plus-tech/"
+    },
+    "Tata Tigor EV": {
+        "Tigor EV XE": "https://www.carwale.com/tata-cars/tigor-ev/xe/",
+        "Tigor EV XT": "https://www.carwale.com/tata-cars/tigor-ev/xt/",
+        "Tigor EV XZ Plus": "https://www.carwale.com/tata-cars/tigor-ev/xz-plus/",
+        "Tigor EV XZ Plus LUX": "https://www.carwale.com/tata-cars/tigor-ev/xz-plus-lux/"
+    },
+    "Tata Curvv": {
+        "Curvv Smart": "https://www.carwale.com/tata-cars/curvv/smart/",
+        "Curvv Pure Plus": "https://www.carwale.com/tata-cars/curvv/pure-plus/",
+        "Curvv Pure Plus S": "https://www.carwale.com/tata-cars/curvv/pure-plus-s/",
+        "Curvv Creative": "https://www.carwale.com/tata-cars/curvv/creative/",
+        "Curvv Creative S": "https://www.carwale.com/tata-cars/curvv/creative-s/",
+        "Curvv Creative Plus S": "https://www.carwale.com/tata-cars/curvv/creative-plus-s/",
+        "Curvv Accomplished S": "https://www.carwale.com/tata-cars/curvv/accomplished-s/",
+        "Curvv Accomplished Plus A": "https://www.carwale.com/tata-cars/curvv/accomplished-plus-a/"
+    },
+    "Tata Curvv EV": {
+        "Curvv EV Creative": "https://www.carwale.com/tata-cars/curvv-ev/creative/",
+        "Curvv EV Accomplished": "https://www.carwale.com/tata-cars/curvv-ev/accomplished/",
+        "Curvv EV Accomplished Plus (S)": "https://www.carwale.com/tata-cars/curvv-ev/accomplished-plus-s/",
+        "Curvv EV Empowered Plus": "https://www.carwale.com/tata-cars/curvv-ev/empowered-plus/",
+        "Curvv EV Empowered Plus A": "https://www.carwale.com/tata-cars/curvv-ev/empowered-plus-a/"
+    },
+    "Tata Tigor": {
+        "Tigor XM": "https://www.carwale.com/tata-cars/tigor/xm/",
+        "Tigor XT": "https://www.carwale.com/tata-cars/tigor/xt/",
+        "Tigor XZ": "https://www.carwale.com/tata-cars/tigor/xz/",
+        "Tigor XZ Plus": "https://www.carwale.com/tata-cars/tigor/xz-plus/"
+    },
+    "Tata Tiago NRG": {
+        "Tiago NRG XZ": "https://www.carwale.com/tata-cars/tiago-nrg/xz/"
+    },
+    "Mahindra XUV 7XO": {
+        "XUV 7XO AX": "https://www.carwale.com/mahindra-cars/xuv-7xo/ax/",
+        "XUV 7XO AX3": "https://www.carwale.com/mahindra-cars/xuv-7xo/ax3/",
+        "XUV 7XO AX5": "https://www.carwale.com/mahindra-cars/xuv-7xo/ax5/",
+        "XUV 7XO AX7": "https://www.carwale.com/mahindra-cars/xuv-7xo/ax7/",
+        "XUV 7XO AX7 T": "https://www.carwale.com/mahindra-cars/xuv-7xo/ax7-t/",
+        "XUV 7XO AX7 L": "https://www.carwale.com/mahindra-cars/xuv-7xo/ax7-l/"
+    },
+    "Mahindra Scorpio N": {
+        "Scorpio N Z2": "https://www.carwale.com/mahindra-cars/scorpio-n/z2/",
+        "Scorpio N Z4": "https://www.carwale.com/mahindra-cars/scorpio-n/z4/",
+        "Scorpio N Z6": "https://www.carwale.com/mahindra-cars/scorpio-n/z6/",
+        "Scorpio N Z8 S": "https://www.carwale.com/mahindra-cars/scorpio-n/z8-s/",
+        "Scorpio N Z8": "https://www.carwale.com/mahindra-cars/scorpio-n/z8/",
+        "Scorpio N Z8 T": "https://www.carwale.com/mahindra-cars/scorpio-n/z8-t/",
+        "Scorpio N Z8 L": "https://www.carwale.com/mahindra-cars/scorpio-n/z8-l/"
+    },
+    "Mahindra XUV 3XO": {
+        "XUV 3XO MX1": "https://www.carwale.com/mahindra-cars/xuv-3xo/mx1/",
+        "XUV 3XO REVX M": "https://www.carwale.com/mahindra-cars/xuv-3xo/revx-m/",
+        "XUV 3XO REVX M (O)": "https://www.carwale.com/mahindra-cars/xuv-3xo/revx-m-o/",
+        "XUV 3XO MX2 Pro": "https://www.carwale.com/mahindra-cars/xuv-3xo/mx2-pro/",
+        "XUV 3XO MX3": "https://www.carwale.com/mahindra-cars/xuv-3xo/mx3/",
+        "XUV 3XO MX2": "https://www.carwale.com/mahindra-cars/xuv-3xo/mx2/",
+        "XUV 3XO MX3 Pro": "https://www.carwale.com/mahindra-cars/xuv-3xo/mx3-pro/",
+        "XUV 3XO AX5": "https://www.carwale.com/mahindra-cars/xuv-3xo/ax5/",
+        "XUV 3XO REVX A": "https://www.carwale.com/mahindra-cars/xuv-3xo/revx-a/",
+        "XUV 3XO AX5L": "https://www.carwale.com/mahindra-cars/xuv-3xo/ax5l/",
+        "XUV 3XO AX7": "https://www.carwale.com/mahindra-cars/xuv-3xo/ax7/",
+        "XUV 3XO AX7L": "https://www.carwale.com/mahindra-cars/xuv-3xo/ax7l/"
+    },
+    "Mahindra Thar": {
+        "Thar AXT": "https://www.carwale.com/mahindra-cars/thar/axt/",
+        "Thar LXT": "https://www.carwale.com/mahindra-cars/thar/lxt/"
+    },
+    "Mahindra BE 6": {
+        "BE 6 Pack One": "https://www.carwale.com/mahindra-cars/be-6/pack-one/",
+        "BE 6 Pack One Above": "https://www.carwale.com/mahindra-cars/be-6/pack-one-above/",
+        "BE 6 Pack Two": "https://www.carwale.com/mahindra-cars/be-6/pack-two/",
+        "BE 6 Pack Three Select": "https://www.carwale.com/mahindra-cars/be-6/pack-three-select/",
+        "BE 6 Pack Three": "https://www.carwale.com/mahindra-cars/be-6/pack-three/",
+        "BE 6 Batman Edition": "https://www.carwale.com/mahindra-cars/be-6/batman-edition/"
+    },
+    "Mahindra Thar Roxx": {
+        "Thar Roxx MX1": "https://www.carwale.com/mahindra-cars/thar-roxx/mx1/",
+        "Thar Roxx MX3": "https://www.carwale.com/mahindra-cars/thar-roxx/mx3/",
+        "Thar Roxx MX5": "https://www.carwale.com/mahindra-cars/thar-roxx/mx5/",
+        "Thar Roxx AX3 L": "https://www.carwale.com/mahindra-cars/thar-roxx/ax3-l/",
+        "Thar Roxx Star Edition": "https://www.carwale.com/mahindra-cars/thar-roxx/star-edition/",
+        "Thar Roxx AX5 L": "https://www.carwale.com/mahindra-cars/thar-roxx/ax5-l/",
+        "Thar Roxx AX7 L": "https://www.carwale.com/mahindra-cars/thar-roxx/ax7-l/"
+    },
+    "Mahindra Scorpio": {
+        "Scorpio S": "https://www.carwale.com/mahindra-cars/scorpio/s/",
+        "Scorpio S11": "https://www.carwale.com/mahindra-cars/scorpio/s11/"
+    },
+    "Mahindra XEV 9S": {
+        "XEV 9S Pack One Above": "https://www.carwale.com/mahindra-cars/xev-9s/pack-one-above/",
+        "XEV 9S Pack Two Above": "https://www.carwale.com/mahindra-cars/xev-9s/pack-two-above/",
+        "XEV 9S Pack Three": "https://www.carwale.com/mahindra-cars/xev-9s/pack-three/",
+        "XEV 9S Pack Three Above": "https://www.carwale.com/mahindra-cars/xev-9s/pack-three-above/"
+    },
+    "Mahindra XEV 9e": {
+        "XEV 9e Pack One": "https://www.carwale.com/mahindra-cars/xev-9e/pack-one/",
+        "XEV 9e Pack Two": "https://www.carwale.com/mahindra-cars/xev-9e/pack-two/",
+        "XEV 9e Pack Three": "https://www.carwale.com/mahindra-cars/xev-9e/pack-three/",
+        "XEV 9e Pack Three Select": "https://www.carwale.com/mahindra-cars/xev-9e/pack-three-select/",
+        "XEV 9e Cineluxe Edition ": "https://www.carwale.com/mahindra-cars/xev-9e/cineluxe-edition/"
+    },
+    "Mahindra Bolero": {
+        "Bolero B4": "https://www.carwale.com/mahindra-cars/bolero/b4/",
+        "Bolero B6": "https://www.carwale.com/mahindra-cars/bolero/b6/",
+        "Bolero B6 (O)": "https://www.carwale.com/mahindra-cars/bolero/b6-o/",
+        "Bolero B8": "https://www.carwale.com/mahindra-cars/bolero/b8/"
+    },
+    "Mahindra XUV 3XO EV": {
+        "XUV 3XO EV AX5": "https://www.carwale.com/mahindra-cars/xuv-3xo-ev/ax5/",
+        "XUV 3XO EV AX7 L": "https://www.carwale.com/mahindra-cars/xuv-3xo-ev/ax7-l/"
+    },
+    "Mahindra Bolero Neo": {
+        "Bolero Neo N4": "https://www.carwale.com/mahindra-cars/bolero-neo/n4/",
+        "Bolero Neo N8": "https://www.carwale.com/mahindra-cars/bolero-neo/n8/",
+        "Bolero Neo N10 (R)": "https://www.carwale.com/mahindra-cars/bolero-neo/n10-r/",
+        "Bolero Neo N11": "https://www.carwale.com/mahindra-cars/bolero-neo/n11/",
+        "Bolero Neo N10 (O)": "https://www.carwale.com/mahindra-cars/bolero-neo/n10-o/"
+    },
+    "Mahindra Bolero Neo Plus": {
+        "Bolero Neo Plus P4": "https://www.carwale.com/mahindra-cars/bolero-neo-plus/p4/",
+        "Bolero Neo Plus P10": "https://www.carwale.com/mahindra-cars/bolero-neo-plus/p10/"
+    },
+    "Mahindra BE 6 FE": {
+        "BE 6 FE Two": "https://www.carwale.com/mahindra-cars/be-6-fe/two/",
+        "BE 6 FE Three": "https://www.carwale.com/mahindra-cars/be-6-fe/three/"
+    },
+    "Mahindra XUV400": {
+        "XUV400 EC PRO": "https://www.carwale.com/mahindra-cars/xuv400/ec-pro/",
+        "XUV400 EL PRO": "https://www.carwale.com/mahindra-cars/xuv400/el-pro/"
+    },
+    "Mahindra Marazzo": {
+        "Marazzo M2": "https://www.carwale.com/mahindra-cars/marazzo/m2/",
+        "Marazzo M4 Plus": "https://www.carwale.com/mahindra-cars/marazzo/m4-plus/",
+        "Marazzo M6 Plus": "https://www.carwale.com/mahindra-cars/marazzo/m6-plus/"
+    },
+    "Volkswagen Taigun": {
+        "Taigun Comfortline": "https://www.carwale.com/volkswagen-cars/taigun/comfortline/",
+        "Taigun Highline": "https://www.carwale.com/volkswagen-cars/taigun/highline/",
+        "Taigun Highline Plus": "https://www.carwale.com/volkswagen-cars/taigun/highline-plus/",
+        "Taigun GT Line": "https://www.carwale.com/volkswagen-cars/taigun/gt-line/",
+        "Taigun Topline": "https://www.carwale.com/volkswagen-cars/taigun/topline/",
+        "Taigun GT Plus Chrome": "https://www.carwale.com/volkswagen-cars/taigun/gt-plus-chrome/",
+        "Taigun GT Plus Sport": "https://www.carwale.com/volkswagen-cars/taigun/gt-plus-sport/"
+    },
+    "Volkswagen Virtus": {
+        "Virtus Comfortline": "https://www.carwale.com/volkswagen-cars/virtus/comfortline/",
+        "Virtus Highline": "https://www.carwale.com/volkswagen-cars/virtus/highline/",
+        "Virtus Highline Plus": "https://www.carwale.com/volkswagen-cars/virtus/highline-plus/",
+        "Virtus GT": "https://www.carwale.com/volkswagen-cars/virtus/gt/",
+        "Virtus GT Line": "https://www.carwale.com/volkswagen-cars/virtus/gt-line/",
+        "Virtus Topline": "https://www.carwale.com/volkswagen-cars/virtus/topline/",
+        "Virtus GT Plus": "https://www.carwale.com/volkswagen-cars/virtus/gt-plus/"
+    },
+    "Volkswagen Tayron R-Line": {
+        "Tayron R-Line 2.0 TSI": "https://www.carwale.com/volkswagen-cars/tayron-r-line/20-tsi/"
+    },
+    "Volkswagen Golf GTI": {
+        "Golf GTI 2.0L TSI": "https://www.carwale.com/volkswagen-cars/golf-gti/20l-tsi/"
+    },
+    "Volkswagen Tiguan R-Line": {
+        "Tiguan R-Line 2.0L TSI": "https://www.carwale.com/volkswagen-cars/tiguan-r-line/20l-tsi/"
+    },
+    "Skoda Kylaq": {
+        "Kylaq Classic": "https://www.carwale.com/skoda-cars/kylaq/classic/",
+        "Kylaq Classic Plus": "https://www.carwale.com/skoda-cars/kylaq/classic-plus/",
+        "Kylaq Signature": "https://www.carwale.com/skoda-cars/kylaq/signature/",
+        "Kylaq Signature Plus": "https://www.carwale.com/skoda-cars/kylaq/signature-plus/",
+        "Kylaq Prestige": "https://www.carwale.com/skoda-cars/kylaq/prestige/",
+        "Kylaq Prestige Plus": "https://www.carwale.com/skoda-cars/kylaq/prestige-plus/",
+        "Kylaq Sportline": "https://www.carwale.com/skoda-cars/kylaq/sportline/"
+    },
+    "Skoda Kushaq": {
+        "Kushaq Classic Plus": "https://www.carwale.com/skoda-cars/kushaq/classic-plus/",
+        "Kushaq Signature ": "https://www.carwale.com/skoda-cars/kushaq/signature/",
+        "Kushaq Sportline ": "https://www.carwale.com/skoda-cars/kushaq/sportline/",
+        "Kushaq Prestige ": "https://www.carwale.com/skoda-cars/kushaq/prestige/",
+        "Kushaq Monte Carlo": "https://www.carwale.com/skoda-cars/kushaq/monte-carlo/"
+    },
+    "Skoda Slavia": {
+        "Slavia Classic": "https://www.carwale.com/skoda-cars/slavia/classic/",
+        "Slavia Signature": "https://www.carwale.com/skoda-cars/slavia/signature/",
+        "Slavia Sportline": "https://www.carwale.com/skoda-cars/slavia/sportline/",
+        "Slavia Prestige": "https://www.carwale.com/skoda-cars/slavia/prestige/",
+        "Slavia Monte Carlo": "https://www.carwale.com/skoda-cars/slavia/monte-carlo/"
+    },
+    "Skoda Kodiaq": {
+        "Kodiaq Lounge": "https://www.carwale.com/skoda-cars/kodiaq/lounge/",
+        "Kodiaq Sportline": "https://www.carwale.com/skoda-cars/kodiaq/sportline/",
+        "Kodiaq L&K": "https://www.carwale.com/skoda-cars/kodiaq/lk/"
+    },
+    "Skoda Octavia RS": {
+        "Octavia RS 2.0 TSI": "https://www.carwale.com/skoda-cars/octaviars/20-tsi/"
+    },
+    "BMW X1": {
+        "X1 sDrive18i M Sport": "https://www.carwale.com/bmw-cars/x1/sdrive18i-m-sport/",
+        "X1 sDrive18d M Sport": "https://www.carwale.com/bmw-cars/x1/sdrive18d-m-sport/"
+    },
+    "BMW X7": {
+        "X7 Signature Edition": "https://www.carwale.com/bmw-cars/x7/signature-edition/",
+        "X7 xDrive40i M Sport": "https://www.carwale.com/bmw-cars/x7/xdrive40i-m-sport/",
+        "X7 xDrive40d DPE 7 Seater": "https://www.carwale.com/bmw-cars/x7/xdrive40d-dpe-7-seater/",
+        "X7 xDrive40d M Sport": "https://www.carwale.com/bmw-cars/x7/xdrive40d-m-sport/",
+        "X7 xDrive40d M Sport Pro": "https://www.carwale.com/bmw-cars/x7/xdrive40d-m-sport-pro/"
+    },
+    "BMW 3 Series LWB": {
+        "3 Series LWB 50 Jahre Edition": "https://www.carwale.com/bmw-cars/3-series/50-jahre-edition/",
+        "3 Series LWB 320Ld M Sport Pro": "https://www.carwale.com/bmw-cars/3-series/320ld-m-sport-pro/",
+        "3 Series LWB 330Li M Sport": "https://www.carwale.com/bmw-cars/3-series/330li-m-sport/",
+        "3 Series LWB 320Ld M Sport": "https://www.carwale.com/bmw-cars/3-series/320ld-m-sport/"
+    },
+    "BMW 2 Series Gran Coupe": {
+        "2 Series Gran Coupe 218 M Sport": "https://www.carwale.com/bmw-cars/2-series-gran-coupe/218-m-sport/",
+        "2 Series Gran Coupe 218 M Sport Pro": "https://www.carwale.com/bmw-cars/2-series-gran-coupe/218-m-sport-pro/"
+    },
+    "BMW M5": {
+        "M5 Competition": "https://www.carwale.com/bmw-cars/m5/competition/"
+    },
+    "BMW M4": {
+        "M4 Competition": "https://www.carwale.com/bmw-cars/m4/competition/",
+        "M4 CS": "https://www.carwale.com/bmw-cars/m4/cs/"
+    },
+    "BMW M340i": {
+        "M340i 50 Jahre Edition": "https://www.carwale.com/bmw-cars/m340i/50-jahre-edition/",
+        "M340i xDrive": "https://www.carwale.com/bmw-cars/m340i/xdrive/"
+    },
+    "BMW Z4": {
+        "Z4 M 40i": "https://www.carwale.com/bmw-cars/z4/m-40i/",
+        "Z4 M 40i Pure Impulse MT": "https://www.carwale.com/bmw-cars/z4/m-40i-pure-impulse-mt/"
+    },
+    "BMW 5 Series": {
+        "5 Series 530Li | Petrol 2.0L Turbo | Automatic": "https://www.carwale.com/bmw-cars/5-series/530li-petrol-20l-turbo-automatic/",
+        "5 Series 530Li | Petrol 2.0L Turbo | Automatic | Aluminium Satinated": "https://www.carwale.com/bmw-cars/5-series/530li-petrol-20l-turbo-automatic-aluminium-satinated/"
+    },
+    "BMW X5": {
+        "X5 xDrive40i xLine": "https://www.carwale.com/bmw-cars/x5/xdrive40i-xline/",
+        "X5 xDrive30d xLine": "https://www.carwale.com/bmw-cars/x5/xdrive30d-xline/",
+        "X5 xDrive40i M Sport Pro": "https://www.carwale.com/bmw-cars/x5/xdrive40i-m-sport-pro/",
+        "X5 xDrive30d M Sport Pro": "https://www.carwale.com/bmw-cars/x5/xdrive30d-m-sport-pro/"
+    },
+    "BMW 7 Series": {
+        "7 Series 740i M Sport": "https://www.carwale.com/bmw-cars/7-series/740i-m-sport/",
+        "7 Series 740d M Sport": "https://www.carwale.com/bmw-cars/7-series/740d-m-sport/"
+    },
+    "BMW X3": {
+        "X3 xDrive20 Petrol 2.0L Turbo Automatic": "https://www.carwale.com/bmw-cars/x3/xdrive20-petrol-20l-turbo-automatic/",
+        "X3 xDrive20d Diesel 2.0L Turbo Automatic": "https://www.carwale.com/bmw-cars/x3/xdrive20d-diesel-20l-turbo-automatic/",
+        "X3 xDrive 30 M Sport Pro Petrol 2.0L Turbo Automatic": "https://www.carwale.com/bmw-cars/x3/xdrive-30-m-sport-pro-petrol-20l-turbo-automatic/"
+    },
+    "BMW M2": {
+        "M2 3.0 Petrol | Petrol Turbo | Automatic": "https://www.carwale.com/bmw-cars/m2/30-petrol-petrol-turbo-automatic/",
+        "M2 3.0 Petrol | Petrol Turbo | Manual": "https://www.carwale.com/bmw-cars/m2/30-petrol-petrol-turbo-manual/",
+        "M2 CS | Petrol Turbo | Automatic": "https://www.carwale.com/bmw-cars/m2/cs-petrol-turbo-automatic/"
+    },
+    "BMW iX1 LWB": {
+        "iX1 LWB eDrive20L M Sport": "https://www.carwale.com/bmw-cars/ix1-lwb/edrive20l-m-sport/"
+    },
+    "BMW M8": {
+        "M8 Coupe": "https://www.carwale.com/bmw-cars/m8/coupe/"
+    },
+    "BMW XM": {
+        "XM Plug-in Hybrid": "https://www.carwale.com/bmw-cars/xm/plug-in-hybrid/"
+    },
+    "BMW iX1": {
+        "iX1 xDrive30 M Sport": "https://www.carwale.com/bmw-cars/ix1/xdrive30-m-sport/"
+    },
+    "BMW i7": {
+        "i7 eDrive50 M Sport": "https://www.carwale.com/bmw-cars/i7/edrive50-m-sport/",
+        "i7 xDrive60 M Sport": "https://www.carwale.com/bmw-cars/i7/xdrive60-m-sport/",
+        "i7 M70 xDrive": "https://www.carwale.com/bmw-cars/i7/m70-xdrive/"
+    },
+    "BMW X4 M40i": {
+        "X4 M40i xDrive": "https://www.carwale.com/bmw-cars/x4/xdrive/"
+    },
+    "BMW i4": {
+        "i4 eDrive35 M Sport": "https://www.carwale.com/bmw-cars/i4/edrive35-m-sport/",
+        "i4 eDrive40 M Sport": "https://www.carwale.com/bmw-cars/i4/edrive40-m-sport/"
+    },
+    "BMW i5": {
+        "i5 M60 xDrive": "https://www.carwale.com/bmw-cars/i5/m60-xdrive/"
+    },
+    "BMW iX": {
+        "iX xDrive 40": "https://www.carwale.com/bmw-cars/ix/xdrive-40/",
+        "iX xDrive 50": "https://www.carwale.com/bmw-cars/ix/xdrive-50/"
+    },
+    "Renault Duster": {
+        "Duster Authentic": "https://www.carwale.com/renault-cars/duster/authentic/",
+        "Duster Evolution": "https://www.carwale.com/renault-cars/duster/evolution/",
+        "Duster Techno": "https://www.carwale.com/renault-cars/duster/techno/",
+        "Duster Techno Plus": "https://www.carwale.com/renault-cars/duster/techno-plus/",
+        "Duster Iconic": "https://www.carwale.com/renault-cars/duster/iconic/",
+        "Duster Emotion": "https://www.carwale.com/renault-cars/duster/emotion/"
+    },
+    "Renault Kwid": {
+        "Kwid Authentic": "https://www.carwale.com/renault-cars/kwid/authentic/",
+        "Kwid Evolution": "https://www.carwale.com/renault-cars/kwid/evolution/",
+        "Kwid Techno": "https://www.carwale.com/renault-cars/kwid/techno/",
+        "Kwid CLIMBER": "https://www.carwale.com/renault-cars/kwid/climber/"
+    },
+    "Renault Triber": {
+        "Triber Authentic": "https://www.carwale.com/renault-cars/triber/authentic/",
+        "Triber Evolution": "https://www.carwale.com/renault-cars/triber/evolution/",
+        "Triber Techno": "https://www.carwale.com/renault-cars/triber/techno/",
+        "Triber Emotion": "https://www.carwale.com/renault-cars/triber/emotion/"
+    },
+    "Renault Kiger": {
+        "Kiger Authentic": "https://www.carwale.com/renault-cars/kiger/authentic/",
+        "Kiger Evolution": "https://www.carwale.com/renault-cars/kiger/evolution/",
+        "Kiger Techno": "https://www.carwale.com/renault-cars/kiger/techno/",
+        "Kiger Emotion": "https://www.carwale.com/renault-cars/kiger/emotion/"
+    },
+    "Duster": {
+        "Duster Authentic": "https://www.carwale.com/renault-cars/duster/authentic/",
+        "Duster Evolution": "https://www.carwale.com/renault-cars/duster/evolution/",
+        "Duster Techno": "https://www.carwale.com/renault-cars/duster/techno/",
+        "Duster Techno Plus": "https://www.carwale.com/renault-cars/duster/techno-plus/",
+        "Duster Iconic": "https://www.carwale.com/renault-cars/duster/iconic/",
+        "Duster Emotion": "https://www.carwale.com/renault-cars/duster/emotion/"
+    },
+    "Kia Syros": {
+        "Syros HTE": "https://www.carwale.com/kia-cars/syros/hte/",
+        "Syros HTE (O)": "https://www.carwale.com/kia-cars/syros/hte-o/",
+        "Syros HTK EX": "https://www.carwale.com/kia-cars/syros/htk-ex/",
+        "Syros HTK Plus": "https://www.carwale.com/kia-cars/syros/htk-plus/",
+        "Syros HTK Plus (O)": "https://www.carwale.com/kia-cars/syros/htk-plus-o/",
+        "Syros HTX": "https://www.carwale.com/kia-cars/syros/htx/",
+        "Syros HTX (O)": "https://www.carwale.com/kia-cars/syros/htx-o/"
+    },
+    "Kia Seltos": {
+        "Seltos HTE": "https://www.carwale.com/kia-cars/seltos/hte/",
+        "Seltos HTE (O)": "https://www.carwale.com/kia-cars/seltos/hte-o/",
+        "Seltos HTK": "https://www.carwale.com/kia-cars/seltos/htk/",
+        "Seltos HTK (O)": "https://www.carwale.com/kia-cars/seltos/htk-o/",
+        "Seltos HTX": "https://www.carwale.com/kia-cars/seltos/htx/",
+        "Seltos HTX (A)": "https://www.carwale.com/kia-cars/seltos/htx-a/",
+        "Seltos GTX": "https://www.carwale.com/kia-cars/seltos/gtx/",
+        "Seltos X-Line": "https://www.carwale.com/kia-cars/seltos/x-line/",
+        "Seltos GTX (A)": "https://www.carwale.com/kia-cars/seltos/gtx-a/",
+        "Seltos X-Line (A)": "https://www.carwale.com/kia-cars/seltos/x-line-a/",
+        "Seltos GTX (O)": "https://www.carwale.com/kia-cars/seltos/gtx-o/",
+        "Seltos X-Line (O)": "https://www.carwale.com/kia-cars/seltos/x-line-o/"
+    },
+    "Kia Sonet": {
+        "Sonet HTE": "https://www.carwale.com/kia-cars/sonet/hte/",
+        "Sonet HTK Plus": "https://www.carwale.com/kia-cars/sonet/htk-plus/",
+        "Sonet HTX": "https://www.carwale.com/kia-cars/sonet/htx/",
+        "Sonet GTX Plus": "https://www.carwale.com/kia-cars/sonet/gtx-plus/",
+        "Sonet X Line": "https://www.carwale.com/kia-cars/sonet/x-line/",
+        "Sonet HTE (O)": "https://www.carwale.com/kia-cars/sonet/hte-o/",
+        "Sonet HTK (O)": "https://www.carwale.com/kia-cars/sonet/htk-o/",
+        "Sonet HTK Plus (O)": "https://www.carwale.com/kia-cars/sonet/htk-plus-o/"
+    },
+    "Kia Carens": {
+        "Carens Premium (O)": "https://www.carwale.com/kia-cars/carens/premium-o/"
+    },
+    "Kia Carens Clavis": {
+        "Carens Clavis HTE": "https://www.carwale.com/kia-cars/carens-clavis/hte/",
+        "Carens Clavis HTE (O)": "https://www.carwale.com/kia-cars/carens-clavis/hte-o/",
+        "Carens Clavis HTK Plus": "https://www.carwale.com/kia-cars/carens-clavis/htk-plus/",
+        "Carens Clavis HTX": "https://www.carwale.com/kia-cars/carens-clavis/htx/",
+        "Carens Clavis HTX Plus": "https://www.carwale.com/kia-cars/carens-clavis/htx-plus/",
+        "Carens Clavis HTK Plus (O)": "https://www.carwale.com/kia-cars/carens-clavis/htk-plus-o/",
+        "Carens Clavis HTX (O)": "https://www.carwale.com/kia-cars/carens-clavis/htx-o/",
+        "Carens Clavis HTE EX": "https://www.carwale.com/kia-cars/carens-clavis/hte-ex/",
+        "Carens Clavis GTX": "https://www.carwale.com/kia-cars/carens-clavis/gtx/",
+        "Carens Clavis GTX Plus": "https://www.carwale.com/kia-cars/carens-clavis/gtx-plus/",
+        "Carens Clavis X-Line": "https://www.carwale.com/kia-cars/carens-clavis/x-line/",
+        "Carens Clavis HTX (O) A": "https://www.carwale.com/kia-cars/carens-clavis/htx-o-a/"
+    },
+    "Kia Carens Clavis EV": {
+        "Carens Clavis EV HTK Plus": "https://www.carwale.com/kia-cars/carens-clavis-ev/htk-plus/",
+        "Carens Clavis EV HTX E": "https://www.carwale.com/kia-cars/carens-clavis-ev/htx-e/",
+        "Carens Clavis EV HTX": "https://www.carwale.com/kia-cars/carens-clavis-ev/htx/",
+        "Carens Clavis EV HTX E ER": "https://www.carwale.com/kia-cars/carens-clavis-ev/htx-e-er/",
+        "Carens Clavis EV HTX ER": "https://www.carwale.com/kia-cars/carens-clavis-ev/htx-er/",
+        "Carens Clavis EV GTX ER": "https://www.carwale.com/kia-cars/carens-clavis-ev/gtx-er/",
+        "Carens Clavis EV HTX Plus ER": "https://www.carwale.com/kia-cars/carens-clavis-ev/htx-plus-er/",
+        "Carens Clavis EV X-Line ER": "https://www.carwale.com/kia-cars/carens-clavis-ev/x-line-er/",
+        "Carens Clavis EV GTX Plus ER": "https://www.carwale.com/kia-cars/carens-clavis-ev/gtx-plus-er/"
+    },
+    "Kia Carnival": {
+        "Carnival Limousine Plus": "https://www.carwale.com/kia-cars/carnival/limousine-plus/"
+    },
+    "Kia EV6": {
+        "EV6 GT Line": "https://www.carwale.com/kia-cars/ev6/gt-line/"
+    },
+    "Kia EV9": {
+        "EV9 GT-Line": "https://www.carwale.com/kia-cars/ev9/gt-line/"
+    },
+    "MG Windsor EV": {
+        "Windsor EV Excite": "https://www.carwale.com/mg-cars/windsor-ev/excite/",
+        "Windsor EV Inspire Limited": "https://www.carwale.com/mg-cars/windsor-ev/inspire-limited/",
+        "Windsor EV Exclusive": "https://www.carwale.com/mg-cars/windsor-ev/exclusive/",
+        "Windsor EV Essence": "https://www.carwale.com/mg-cars/windsor-ev/essence/",
+        "Windsor EV Exclusive Pro": "https://www.carwale.com/mg-cars/windsor-ev/exclusive-pro/",
+        "Windsor EV Essence Pro": "https://www.carwale.com/mg-cars/windsor-ev/essence-pro/"
+    },
+    "MG Hector": {
+        "Hector Style": "https://www.carwale.com/mg-cars/hector/style/",
+        "Hector Select Pro": "https://www.carwale.com/mg-cars/hector/select-pro/",
+        "Hector Smart Pro": "https://www.carwale.com/mg-cars/hector/smart-pro/",
+        "Hector Sharp Pro": "https://www.carwale.com/mg-cars/hector/sharp-pro/",
+        "Hector Savvy Pro": "https://www.carwale.com/mg-cars/hector/savvy-pro/"
+    },
+    "MG Comet EV": {
+        "Comet EV Executive": "https://www.carwale.com/mg-cars/comet-ev/executive/",
+        "Comet EV Excite": "https://www.carwale.com/mg-cars/comet-ev/excite/",
+        "Comet EV Excite FC": "https://www.carwale.com/mg-cars/comet-ev/excite-fc/",
+        "Comet EV Exclusive": "https://www.carwale.com/mg-cars/comet-ev/exclusive/",
+        "Comet EV Exclusive FC": "https://www.carwale.com/mg-cars/comet-ev/exclusive-fc/",
+        "Comet EV Blackstorm": "https://www.carwale.com/mg-cars/comet-ev/blackstorm/"
+    },
+    "MG M9": {
+        "M9 Presidential Limo": "https://www.carwale.com/mg-cars/m9/presidential-limo/"
+    },
+    "MG Cyberster": {
+        "Cyberster GT": "https://www.carwale.com/mg-cars/cyberster/gt/"
+    },
+    "MG Astor": {
+        "Astor Sprint": "https://www.carwale.com/mg-cars/astor/sprint/",
+        "Astor Shine": "https://www.carwale.com/mg-cars/astor/shine/",
+        "Astor Select": "https://www.carwale.com/mg-cars/astor/select/",
+        "Astor Sharp Pro": "https://www.carwale.com/mg-cars/astor/sharp-pro/",
+        "Astor Savvy Pro": "https://www.carwale.com/mg-cars/astor/savvy-pro/"
+    },
+    "MG Hector Plus": {
+        "Hector Plus Sharp Pro": "https://www.carwale.com/mg-cars/hector-plus/sharp-pro/",
+        "Hector Plus Savvy Pro": "https://www.carwale.com/mg-cars/hector-plus/savvy-pro/"
+    },
+    "MG ZS EV": {
+        "ZS EV Executive": "https://www.carwale.com/mg-cars/zs-ev/executive/",
+        "ZS EV Excite Pro": "https://www.carwale.com/mg-cars/zs-ev/excite-pro/",
+        "ZS EV Exclusive Plus": "https://www.carwale.com/mg-cars/zs-ev/exclusive-plus/",
+        "ZS EV 100-Year": "https://www.carwale.com/mg-cars/zs-ev/100-year/",
+        "ZS EV Essence": "https://www.carwale.com/mg-cars/zs-ev/essence/"
+    },
+    "MG Gloster": {
+        "Gloster Sharp": "https://www.carwale.com/mg-cars/gloster/sharp/",
+        "Gloster Savvy": "https://www.carwale.com/mg-cars/gloster/savvy/",
+        "Gloster Blackstorm": "https://www.carwale.com/mg-cars/gloster/blackstorm/",
+        "Gloster Desertstorm": "https://www.carwale.com/mg-cars/gloster/desertstorm/",
+        "Gloster Snowstorm": "https://www.carwale.com/mg-cars/gloster/snowstorm/"
+    },
+    "Land Rover Defender": {
+        "Defender 110 X Dynamic HSE | Petrol 2.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/110-x-dynamic-hse-petrol-20l-turbo-automatic-5-str/",
+        "Defender 110 X Dynamic HSE | Diesel 3.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/110-x-dynamic-hse-diesel-30l-turbo-automatic-5-str/",
+        "Defender 110 | Diesel 3.0L Turbo | Automatic | 5 STR | Trophy Edition Keswick": "https://www.carwale.com/land-rover-cars/defender/110-diesel-30l-turbo-automatic-5-str-trophy-edition-keswick/",
+        "Defender 110 | Diesel 3.0L Turbo | Automatic | 5 STR | Trophy Edition": "https://www.carwale.com/land-rover-cars/defender/110-diesel-30l-turbo-automatic-5-str-trophy-edition/",
+        "Defender Sedona Edition | Diesel 3.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/sedona-edition-diesel-30l-turbo-automatic-5-str/",
+        "Defender 110 X | Diesel 3.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/110-x-diesel-30l-turbo-automatic-5-str/",
+        "Defender 110 X Dynamic HSE | Petrol 5.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/110-x-dynamic-hse-petrol-50l-turbo-automatic-5-str/",
+        "Defender 130 X Dynamic HSE | Mild Hybrid (Electric + Diesel) 3.0L Turbo | Automatic | 8 STR": "https://www.carwale.com/land-rover-cars/defender/130-x-dynamic-hse-mild-hybrid-electric-plus-diesel-30l-turbo-automatic-8-str/",
+        "Defender 90 X | Petrol 5.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/90-x-petrol-50l-turbo-automatic-5-str/",
+        "Defender 110 X | Petrol 5.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/110-x-petrol-50l-turbo-automatic-5-str/",
+        "Defender 130 X | Mild Hybrid (Electric + Diesel) 3.0L Turbo | Automatic | 8 STR": "https://www.carwale.com/land-rover-cars/defender/130-x-mild-hybrid-electric-plus-diesel-30l-turbo-automatic-8-str/",
+        "Defender 130 X Dynamic V8 HSE | Petrol 5.0L Turbo | Automatic | 8 STR": "https://www.carwale.com/land-rover-cars/defender/130-x-dynamic-v8-hse-petrol-50l-turbo-automatic-8-str/",
+        "Defender 90 V8 | Petrol 5.0L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/90-v8-petrol-50l-turbo-automatic-5-str/",
+        "Defender 130 X V8 | Petrol 5.0L Turbo | Automatic | 8 STR": "https://www.carwale.com/land-rover-cars/defender/130-x-v8-petrol-50l-turbo-automatic-8-str/",
+        "Defender 130 V8 | Petrol 5.0L Turbo | Automatic | 8 STR": "https://www.carwale.com/land-rover-cars/defender/130-v8-petrol-50l-turbo-automatic-8-str/",
+        "Defender Octa | Mild Hybrid(Electric + Petrol) 4.4L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/octa-mild-hybridelectric-plus-petrol-44l-turbo-automatic-5-str/",
+        "Defender Octa Black | Mild Hybrid(Electric + Petrol) 4.4L Turbo | Automatic | 5 STR": "https://www.carwale.com/land-rover-cars/defender/octa-black-mild-hybridelectric-plus-petrol-44l-turbo-automatic-5-str/"
+    },
+    "Land Rover Range Rover Velar": {
+        "Range Rover Velar Autobiography 2.0 Petrol": "https://www.carwale.com/land-rover-cars/range-rover-velar/autobiography-20-petrol/",
+        "Range Rover Velar Autobiography 2.0 Diesel": "https://www.carwale.com/land-rover-cars/range-rover-velar/autobiography-20-diesel/"
+    },
+    "Land Rover Range Rover": {
+        "Range Rover HSE 3.0 Diesel": "https://www.carwale.com/land-rover-cars/range-rover/hse-30-diesel/",
+        "Range Rover Autobiography 3.0 Petrol": "https://www.carwale.com/land-rover-cars/range-rover/autobiography-30-petrol/",
+        "Range Rover SV 3.0 Diesel LWB": "https://www.carwale.com/land-rover-cars/range-rover/sv-30-diesel-lwb/",
+        "Range Rover SV 4.4 Petrol LWB": "https://www.carwale.com/land-rover-cars/range-rover/sv-44-petrol-lwb/",
+        "Range Rover SV Ranthambore Edition": "https://www.carwale.com/land-rover-cars/range-rover/sv-ranthambore-edition/",
+        "Range Rover SV 4.4 Petrol LWB Masara Edition": "https://www.carwale.com/land-rover-cars/range-rover/sv-44-petrol-lwb-masara-edition/"
+    },
+    "Land Rover Range Rover Sport": {
+        "Range Rover Sport HSE Dynamic 3.0 Diesel": "https://www.carwale.com/land-rover-cars/range-rover-sport/hse-dynamic-30-diesel/",
+        "Range Rover Sport HSE Dynamic 3.0 Petrol": "https://www.carwale.com/land-rover-cars/range-rover-sport/hse-dynamic-30-petrol/",
+        "Range Rover Sport Autobiography 4.4 Petrol": "https://www.carwale.com/land-rover-cars/range-rover-sport/autobiography-44-petrol/",
+        "Range Rover Sport SV Edition Two 4.4 Petrol": "https://www.carwale.com/land-rover-cars/range-rover-sport/sv-edition-two-44-petrol/"
+    },
+    "Land Rover Range Rover Evoque": {
+        "Range Rover Evoque Autobiography Petrol": "https://www.carwale.com/land-rover-cars/range-rover-evoque/autobiography-petrol/",
+        "Range Rover Evoque Autobiography Diesel": "https://www.carwale.com/land-rover-cars/range-rover-evoque/autobiography-diesel/"
+    },
+    "Land Rover Discovery": {
+        "Discovery S 3.0 Diesel": "https://www.carwale.com/land-rover-cars/discovery/s-30-diesel/",
+        "Discovery Gemini Edition": "https://www.carwale.com/land-rover-cars/discovery/gemini-edition/",
+        "Discovery HSE R-Dynamic 3.0 Diesel": "https://www.carwale.com/land-rover-cars/discovery/hse-r-dynamic-30-diesel/",
+        "Discovery Metropolitan Edition": "https://www.carwale.com/land-rover-cars/discovery/metropolitan-edition/",
+        "Discovery Tempest Edition": "https://www.carwale.com/land-rover-cars/discovery/tempest-edition/"
+    },
+    "CLA": {
+        "200 | 58.0 kWh": "https://www.carwale.com/mercedes-benz-cars/cla/200-580-kwh/",
+        "250 Plus | 85.5 kWh": "https://www.carwale.com/mercedes-benz-cars/cla/250-plus-855-kwh/"
+    },
+    "Mercedes-Benz GLA": {
+        "GLA 200": "https://www.carwale.com/mercedes-benz-cars/gla/200/",
+        "GLA 220d 4MATIC": "https://www.carwale.com/mercedes-benz-cars/gla/220d-4matic/",
+        "GLA 220d AMG Line 4MATIC": "https://www.carwale.com/mercedes-benz-cars/gla/220d-amg-line-4matic/"
+    },
+    "Land Rover Discovery Sport": {
+        "Discovery Sport SE R-Dynamic Diesel": "https://www.carwale.com/land-rover-cars/discovery-sport/se-r-dynamic-diesel/",
+        "Discovery Sport SE R-Dynamic Petrol": "https://www.carwale.com/land-rover-cars/discovery-sport/se-r-dynamic-petrol/"
+    },
+    "Mercedes-Benz G-Class": {
+        "G-Class G 450d AMG Line": "https://www.carwale.com/mercedes-benz-cars/g-class/g-450d-amg-line/"
+    },
+    "Mercedes-Benz C-Class": {
+        "C-Class C 220d": "https://www.carwale.com/mercedes-benz-cars/c-class/c-220d/",
+        "C-Class C 200": "https://www.carwale.com/mercedes-benz-cars/c-class/c-200/",
+        "C-Class C 300": "https://www.carwale.com/mercedes-benz-cars/c-class/c-300/"
+    },
+    "Mercedes-Benz GLS": {
+        "GLS 450 4MATIC": "https://www.carwale.com/mercedes-benz-cars/gls/450-4matic/",
+        "GLS 450d 4MATIC": "https://www.carwale.com/mercedes-benz-cars/gls/450d-4matic/",
+        "GLS 450d 4MATIC AMG Line": "https://www.carwale.com/mercedes-benz-cars/gls/450d-4matic-amg-line/",
+        "GLS 450 4MATIC AMG Line": "https://www.carwale.com/mercedes-benz-cars/gls/450-4matic-amg-line/"
+    },
+    "Mercedes-Benz E-Class": {
+        "E-Class E200 LWB": "https://www.carwale.com/mercedes-benz-cars/e-class/e200-lwb/",
+        "E-Class E220d LWB": "https://www.carwale.com/mercedes-benz-cars/e-class/e220d-lwb/",
+        "E-Class 450 4MATIC LWB": "https://www.carwale.com/mercedes-benz-cars/e-class/450-4matic-lwb/"
+    },
+    "Mercedes-Benz GLC": {
+        "GLC 220d 4MATIC": "https://www.carwale.com/mercedes-benz-cars/glc/220d-4matic/",
+        "GLC 300 4MATIC": "https://www.carwale.com/mercedes-benz-cars/glc/300-4matic/"
+    },
+    "Mercedes-Benz Maybach S-Class": {
+        "Maybach S-Class S 580 4MATIC": "https://www.carwale.com/mercedes-benz-cars/maybach-s-class/s-580-4matic/"
+    },
+    "Mercedes-Benz V-Class": {
+        "V-Class  V 300 d | Diesel 2.0L | Automatic": "https://www.carwale.com/mercedes-benz-cars/v-class/v-300-d-diesel-20l-automatic/",
+        "V-Class  V 300 | Mild Hybrid(Electric + Petrol) 2.0L | Automatic": "https://www.carwale.com/mercedes-benz-cars/v-class/v-300-mild-hybridelectric-plus-petrol-20l-automatic/"
+    },
+    "Mercedes-Benz GLE": {
+        "GLE 300d AMG Line": "https://www.carwale.com/mercedes-benz-cars/gle/300d-amg-line/",
+        "GLE 450 4MATIC LWB": "https://www.carwale.com/mercedes-benz-cars/gle/450-4matic-lwb/",
+        "GLE 450d 4MATIC LWB": "https://www.carwale.com/mercedes-benz-cars/gle/450d-4matic-lwb/"
+    },
+    "Mercedes-Benz AMG CLE": {
+        "AMG CLE 53 4MATIC Plus Coupe": "https://www.carwale.com/mercedes-benz-cars/amg-cle/53-4matic-plus-coupe/"
+    },
+    "Mercedes-Benz S-Class": {
+        "S-Class S 350d": "https://www.carwale.com/mercedes-benz-cars/s-class/s-350d/",
+        "S-Class S 450 4MATIC": "https://www.carwale.com/mercedes-benz-cars/s-class/s-450-4matic/"
+    },
+    "Mercedes-Benz Maybach GLS": {
+        "Maybach GLS 600 4MATIC": "https://www.carwale.com/mercedes-benz-cars/maybach-gls/600-4matic/",
+        "Maybach GLS 600 4MATIC Celebration Edition": "https://www.carwale.com/mercedes-benz-cars/maybach-gls/600-4matic-celebration-edition/"
+    },
+    "Mercedes-Benz AMG G-Class": {
+        "AMG G-Class G 63": "https://www.carwale.com/mercedes-benz-cars/amg-g-class/g-63/"
+    },
+    "Mercedes-Benz AMG GLA35": {
+        "AMG GLA35 4MATIC": "https://www.carwale.com/mercedes-benz-cars/amg-gla35/4matic/"
+    },
+    "Mercedes-Benz CLE Cabriolet": {
+        "CLE Cabriolet 300 AMG Line": "https://www.carwale.com/mercedes-benz-cars/cle-cabriolet/300-amg-line/"
+    },
+    "Mercedes-Benz AMG GT 63": {
+        "AMG GT 63 4MATIC Plus": "https://www.carwale.com/mercedes-benz-cars/amg-gt-63/4matic-plus/",
+        "AMG GT 63 Pro 4MATIC Plus": "https://www.carwale.com/mercedes-benz-cars/amg-gt-63/pro-4matic-plus/"
+    },
+    "Mercedes-Benz AMG GLC43 Coupe": {
+        "AMG GLC43 Coupe 4MATIC AWD": "https://www.carwale.com/mercedes-benz-cars/amg-glc43-coupe/4matic-awd/"
+    },
+    "Mercedes-Benz EQS": {
+        "EQS Celebration Edition": "https://www.carwale.com/mercedes-benz-cars/eqs/celebration-edition/"
+    },
+    "Mercedes-Benz G580 with EQ Technology": {
+        "G580 with EQ Technology 580 Edition One": "https://www.carwale.com/mercedes-benz-cars/g580-with-eq-technology/580-edition-one/"
+    },
+    "Mercedes-Benz AMG C 43": {
+        "AMG C 43 4MATIC": "https://www.carwale.com/mercedes-benz-cars/amg-c-43/4matic/"
+    },
+    "Mercedes-Benz AMG A45 S": {
+        "AMG A45 S Aero Track Edition | Petrol Turbo | Automatic": "https://www.carwale.com/mercedes-benz-cars/amg-a45-s/aero-track-edition-petrol-turbo-automatic/"
+    },
+    "Mercedes-Benz AMG GLE Coupe": {
+        "AMG GLE Coupe Performance Edition | Petrol Turbo | Automatic": "https://www.carwale.com/mercedes-benz-cars/amg-gle-coupe/performance-edition-petrol-turbo-automatic/"
+    },
+    "Mercedes-Benz AMG SL55 Roadster": {
+        "AMG SL55 Roadster 4MATIC Plus": "https://www.carwale.com/mercedes-benz-cars/amg-sl55-roadster/4matic-plus/"
+    },
+    "Mercedes-Benz EQS SUV": {
+        "EQS SUV 450 5 Seater": "https://www.carwale.com/mercedes-benz-cars/eqs-suv/450-5-seater/",
+        "EQS SUV 450 5 Seater Celebration Edition": "https://www.carwale.com/mercedes-benz-cars/eqs-suv/450-5-seater-celebration-edition/",
+        "EQS SUV 580 4MATIC": "https://www.carwale.com/mercedes-benz-cars/eqs-suv/580-4matic/",
+        "EQS SUV 580 4MATIC Celebration Edition": "https://www.carwale.com/mercedes-benz-cars/eqs-suv/580-4matic-celebration-edition/"
+    },
+    "Mercedes-Benz Maybach SL 680": {
+        "Maybach SL 680 Monogram Series": "https://www.carwale.com/mercedes-benz-cars/maybach-sl-680/monogram-series/"
+    },
+    "Mercedes-Benz AMG E53 Cabriolet": {
+        "AMG E53 Cabriolet 4MATIC Plus": "https://www.carwale.com/mercedes-benz-cars/amg-e53-cabriolet/4matic-plus/"
+    },
+    "Mercedes-Benz AMG S 63 E Performance": {
+        "AMG S 63 E Performance Standard": "https://www.carwale.com/mercedes-benz-cars/amg-s-63-e-performance/standard/"
+    },
+    "Mercedes-Benz AMG GT 63 S E Performance": {
+        "AMG GT 63 S E Performance Limousine": "https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-e-performance/limousine/"
+    },
+    "Mercedes-Benz AMG GT 63 S 4Matic Plus": {
+        "AMG GT 63 S 4Matic Plus Limousine": "https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-4matic-plus/limousine/"
+    },
+    "Mercedes-Benz AMG EQS": {
+        "AMG EQS 53 4MATIC Plus": "https://www.carwale.com/mercedes-benz-cars/amg-eqs/53-4matic-plus/"
+    },
+    "Mercedes-Benz EQE SUV": {
+        "EQE SUV 500 4MATIC": "https://www.carwale.com/mercedes-benz-cars/eqe-suv/500-4matic/"
+    },
+    "Mercedes-Benz Maybach EQS SUV": {
+        "Maybach EQS SUV 680": "https://www.carwale.com/mercedes-benz-cars/maybach-eqs-suv/680/",
+        "Maybach EQS SUV Night Series": "https://www.carwale.com/mercedes-benz-cars/maybach-eqs-suv/night-series/"
+    },
+    "Mercedes-Benz AMG C 63 S E Performance": {
+        "AMG C 63 S E Performance 4MATIC Plus": "https://www.carwale.com/mercedes-benz-cars/amg-c-63-s-e-performance/4matic-plus/"
+    },
+    "Nissan Gravite": {
+        "Gravite Visia": "https://www.carwale.com/nissan-cars/gravite/visia/",
+        "Gravite Acenta": "https://www.carwale.com/nissan-cars/gravite/acenta/",
+        "Gravite N-Connecta": "https://www.carwale.com/nissan-cars/gravite/n-connecta/",
+        "Gravite Tekna": "https://www.carwale.com/nissan-cars/gravite/tekna/",
+        "Gravite Tekna LE": "https://www.carwale.com/nissan-cars/gravite/tekna-le/",
+        "Gravite Tekna Plus": "https://www.carwale.com/nissan-cars/gravite/tekna-plus/"
+    },
+    "Nissan Magnite": {
+        "Magnite Visia": "https://www.carwale.com/nissan-cars/magnite/visia/",
+        "Magnite Visia Plus": "https://www.carwale.com/nissan-cars/magnite/visia-plus/",
+        "Magnite Acenta": "https://www.carwale.com/nissan-cars/magnite/acenta/",
+        "Magnite N-Connecta": "https://www.carwale.com/nissan-cars/magnite/n-connecta/",
+        "Magnite Kuro Edition": "https://www.carwale.com/nissan-cars/magnite/kuro-edition/",
+        "Magnite Tekna": "https://www.carwale.com/nissan-cars/magnite/tekna/",
+        "Magnite Tekna Plus": "https://www.carwale.com/nissan-cars/magnite/tekna-plus/"
+    },
+    "Nissan X-Trail": {
+        "X-Trail Mild Hybrid CVT": "https://www.carwale.com/nissan-cars/x-trail/mild-hybrid-cvt/"
+    },
+    "Gravite": {
+        "Gravite Visia": "https://www.carwale.com/nissan-cars/gravite/visia/",
+        "Gravite Acenta": "https://www.carwale.com/nissan-cars/gravite/acenta/",
+        "Gravite N-Connecta": "https://www.carwale.com/nissan-cars/gravite/n-connecta/",
+        "Gravite Tekna": "https://www.carwale.com/nissan-cars/gravite/tekna/",
+        "Gravite Tekna LE": "https://www.carwale.com/nissan-cars/gravite/tekna-le/",
+        "Gravite Tekna Plus": "https://www.carwale.com/nissan-cars/gravite/tekna-plus/"
+    },
+    "Honda Elevate": {
+        "Elevate SV MT": "https://www.carwale.com/honda-cars/elevate/sv-mt/",
+        "Elevate V MT": "https://www.carwale.com/honda-cars/elevate/v-mt/",
+        "Elevate V CVT": "https://www.carwale.com/honda-cars/elevate/v-cvt/",
+        "Elevate Elite Pack VX MT": "https://www.carwale.com/honda-cars/elevate/elite-pack-vx-mt/",
+        "Elevate VX MT": "https://www.carwale.com/honda-cars/elevate/vx-mt/",
+        "Elevate Apex Edition VX MT": "https://www.carwale.com/honda-cars/elevate/apex-edition-vx-mt/",
+        "Elevate Apex Edition VX CVT": "https://www.carwale.com/honda-cars/elevate/apex-edition-vx-cvt/",
+        "Elevate Elite Pack VX CVT": "https://www.carwale.com/honda-cars/elevate/elite-pack-vx-cvt/",
+        "Elevate Elite Pack ZX MT": "https://www.carwale.com/honda-cars/elevate/elite-pack-zx-mt/",
+        "Elevate VX CVT": "https://www.carwale.com/honda-cars/elevate/vx-cvt/",
+        "Elevate ZX MT": "https://www.carwale.com/honda-cars/elevate/zx-mt/",
+        "Elevate Black Edition ZX MT": "https://www.carwale.com/honda-cars/elevate/black-edition-zx-mt/",
+        "Elevate ADV Edition MT": "https://www.carwale.com/honda-cars/elevate/adv-edition-mt/",
+        "Elevate Signature Black Edition ZX MT": "https://www.carwale.com/honda-cars/elevate/signature-black-edition-zx-mt/",
+        "Elevate ADV Edition MT Dual Tone": "https://www.carwale.com/honda-cars/elevate/adv-edition-mt-dual-tone/",
+        "Elevate Elite Pack ZX CVT": "https://www.carwale.com/honda-cars/elevate/elite-pack-zx-cvt/",
+        "Elevate ZX CVT": "https://www.carwale.com/honda-cars/elevate/zx-cvt/",
+        "Elevate Black Edition ZX CVT": "https://www.carwale.com/honda-cars/elevate/black-edition-zx-cvt/",
+        "Elevate ZX CVT Dual Tone": "https://www.carwale.com/honda-cars/elevate/zx-cvt-dual-tone/",
+        "Elevate ADV Edition CVT": "https://www.carwale.com/honda-cars/elevate/adv-edition-cvt/",
+        "Elevate Signature Black Edition ZX CVT": "https://www.carwale.com/honda-cars/elevate/signature-black-edition-zx-cvt/",
+        "Elevate ADV Edition CVT Dual Tone": "https://www.carwale.com/honda-cars/elevate/adv-edition-cvt-dual-tone/"
+    },
+    "Honda Amaze": {
+        "Amaze V 1.2 Petrol MT": "https://www.carwale.com/honda-cars/amaze/v-12-petrol-mt/",
+        "Amaze Elite Pack VX 1.2 Petrol MT": "https://www.carwale.com/honda-cars/amaze/elite-pack-vx-12-petrol-mt/",
+        "Amaze VX 1.2 Petrol MT": "https://www.carwale.com/honda-cars/amaze/vx-12-petrol-mt/",
+        "Amaze V 1.2 Petrol CVT": "https://www.carwale.com/honda-cars/amaze/v-12-petrol-cvt/",
+        "Amaze VX 1.2 Petrol CVT": "https://www.carwale.com/honda-cars/amaze/vx-12-petrol-cvt/",
+        "Amaze ZX 1.2 Petrol MT": "https://www.carwale.com/honda-cars/amaze/zx-12-petrol-mt/",
+        "Amaze Elite Pack VX 1.2 Petrol CVT": "https://www.carwale.com/honda-cars/amaze/elite-pack-vx-12-petrol-cvt/",
+        "Amaze ZX 1.2 Petrol CVT": "https://www.carwale.com/honda-cars/amaze/zx-12-petrol-cvt/"
+    },
+    "Honda City": {
+        "City SV Petrol MT": "https://www.carwale.com/honda-cars/city/sv-petrol-mt/",
+        "City Elegant Edition MT": "https://www.carwale.com/honda-cars/city/elegant-edition-mt/",
+        "City V Petrol MT Apex Edition": "https://www.carwale.com/honda-cars/city/v-petrol-mt-apex-edition/",
+        "City V Petrol MT": "https://www.carwale.com/honda-cars/city/v-petrol-mt/",
+        "City Elegant Edition CVT": "https://www.carwale.com/honda-cars/city/elegant-edition-cvt/",
+        "City VX Petrol MT": "https://www.carwale.com/honda-cars/city/vx-petrol-mt/",
+        "City VX Petrol MT Apex Edition": "https://www.carwale.com/honda-cars/city/vx-petrol-mt-apex-edition/",
+        "City V Petrol CVT Apex Edition": "https://www.carwale.com/honda-cars/city/v-petrol-cvt-apex-edition/",
+        "City V Petrol CVT": "https://www.carwale.com/honda-cars/city/v-petrol-cvt/",
+        "City Sport Petrol CVT": "https://www.carwale.com/honda-cars/city/sport-petrol-cvt/",
+        "City VX Petrol CVT Apex Editon": "https://www.carwale.com/honda-cars/city/vx-petrol-cvt-apex-editon/",
+        "City VX Petrol CVT": "https://www.carwale.com/honda-cars/city/vx-petrol-cvt/",
+        "City ZX Petrol MT": "https://www.carwale.com/honda-cars/city/zx-petrol-mt/",
+        "City ZX Petrol CVT": "https://www.carwale.com/honda-cars/city/zx-petrol-cvt/"
+    },
+    "Honda Amaze 2nd Gen": {
+        "Amaze 2nd Gen S 1.2 Petrol MT": "https://www.carwale.com/honda-cars/amaze-2nd-gen/s-12-petrol-mt/",
+        "Amaze 2nd Gen S 1.2 Petrol CVT": "https://www.carwale.com/honda-cars/amaze-2nd-gen/s-12-petrol-cvt/"
+    },
+    "Honda City Hybrid eHEV": {
+        "City Hybrid eHEV ZX": "https://www.carwale.com/honda-cars/city-hybrid/zx/"
+    },
+    "Vinfast VF 7": {
+        "VF 7 Earth": "https://www.carwale.com/vinfast-cars/vf-7/earth/",
+        "VF 7 Wind": "https://www.carwale.com/vinfast-cars/vf-7/wind/",
+        "VF 7 Wind Infinity": "https://www.carwale.com/vinfast-cars/vf-7/wind-infinity/",
+        "VF 7 Sky": "https://www.carwale.com/vinfast-cars/vf-7/sky/",
+        "VF 7 Sky Infinity": "https://www.carwale.com/vinfast-cars/vf-7/sky-infinity/"
+    },
+    "Vinfast VF 6": {
+        "VF 6 Earth": "https://www.carwale.com/vinfast-cars/vf-6/earth/",
+        "VF 6 Wind": "https://www.carwale.com/vinfast-cars/vf-6/wind/",
+        "VF 6 Wind Infinity": "https://www.carwale.com/vinfast-cars/vf-6/wind-infinity/"
+    },
+    "Vinfast VF MPV 7": {
+        "VF MPV 7 Earth": "https://www.carwale.com/vinfast-cars/vf-mpv-7/earth/",
+        "VF MPV 7 Wind 60.1 kWh": "https://www.carwale.com/vinfast-cars/vf-mpv-7/wind-601-kwh/",
+        "VF MPV 7 Sky": "https://www.carwale.com/vinfast-cars/vf-mpv-7/sky/"
+    },
+    "VF MPV 7": {
+        "VF MPV 7 Earth": "https://www.carwale.com/vinfast-cars/vf-mpv-7/earth/",
+        "VF MPV 7 Wind 60.1 kWh": "https://www.carwale.com/vinfast-cars/vf-mpv-7/wind-601-kwh/",
+        "VF MPV 7 Sky": "https://www.carwale.com/vinfast-cars/vf-mpv-7/sky/"
+    },
+    "Jeep Compass": {
+        "Compass Sport": "https://www.carwale.com/jeep-cars/compass/sport/",
+        "Compass Longitude": "https://www.carwale.com/jeep-cars/compass/longitude/",
+        "Compass Longitude (O)": "https://www.carwale.com/jeep-cars/compass/longitude-o/",
+        "Compass Trail Edition": "https://www.carwale.com/jeep-cars/compass/trail-edition/",
+        "Compass Limited (O)": "https://www.carwale.com/jeep-cars/compass/limited-o/",
+        "Compass Model S (O)": "https://www.carwale.com/jeep-cars/compass/model-s-o/",
+        "Compass Track Edition": "https://www.carwale.com/jeep-cars/compass/track-edition/"
+    },
+    "Jeep Meridian": {
+        "Meridian Longitude": "https://www.carwale.com/jeep-cars/meridian/longitude/",
+        "Meridian Longitude Plus": "https://www.carwale.com/jeep-cars/meridian/longtitude-plus/",
+        "Meridian Trail Edition": "https://www.carwale.com/jeep-cars/meridian/trail-edition/",
+        "Meridian Limited (O)": "https://www.carwale.com/jeep-cars/meridian/limited-o/",
+        "Meridian Overland": "https://www.carwale.com/jeep-cars/meridian/overland/",
+        "Meridian Track Edition": "https://www.carwale.com/jeep-cars/meridian/track-edition/"
+    },
+    "Jeep Wrangler": {
+        "Wrangler Unlimited": "https://www.carwale.com/jeep-cars/wrangler/unlimited/",
+        "Wrangler Rubicon": "https://www.carwale.com/jeep-cars/wrangler/rubicon/",
+        "Wrangler Willys 41 Special Edition": "https://www.carwale.com/jeep-cars/wrangler/willys-41-special-edition/"
+    },
+    "Jeep Grand Cherokee": {
+        "Grand Cherokee Limited (O)": "https://www.carwale.com/jeep-cars/grand-cherokee/limited-o/",
+        "Grand Cherokee Signature Edition": "https://www.carwale.com/jeep-cars/grand-cherokee/signature-edition/"
+    },
+    "Audi Q3": {
+        "Q3 40 TFSI Premium": "https://www.carwale.com/audi-cars/q3/40-tfsi-premium/",
+        "Q3 40 TFSI Premium Plus": "https://www.carwale.com/audi-cars/q3/40-tfsi-premium-plus/",
+        "Q3 Signature Edition": "https://www.carwale.com/audi-cars/q3/signature-edition/",
+        "Q3 40 TFSI Technology": "https://www.carwale.com/audi-cars/q3/40-tfsi-technology/"
+    },
+    "Audi A4": {
+        "A4 Premium 40 TFSI": "https://www.carwale.com/audi-cars/a4/premium-40-tfsi/",
+        "A4 Premium Plus 40 TFSI": "https://www.carwale.com/audi-cars/a4/premium-plus-40-tfsi/",
+        "A4 Signature Edition": "https://www.carwale.com/audi-cars/a4/signature-edition/",
+        "A4 Technology 40 TFSI": "https://www.carwale.com/audi-cars/a4/technology-40-tfsi/"
+    },
+    "Audi S5 Sportback": {
+        "S5 Sportback 3.0 TFSI Quattro": "https://www.carwale.com/audi-cars/s5-sportback/30-tfsi-quattro/",
+        "S5 Sportback Platinum Edition": "https://www.carwale.com/audi-cars/s5-sportback/platinum-edition/"
+    },
+    "Audi Q7": {
+        "Q7 Premium Plus": "https://www.carwale.com/audi-cars/q7/premium-plus/",
+        "Q7 Bold Edition": "https://www.carwale.com/audi-cars/q7/bold-edition/",
+        "Q7 Signature Edition": "https://www.carwale.com/audi-cars/q7/signature-edition/",
+        "Q7 Technology": "https://www.carwale.com/audi-cars/q7/technology/"
+    },
+    "Audi Q5": {
+        "Q5 Premium Plus 45 TFSI": "https://www.carwale.com/audi-cars/q5/premium-plus-45-tfsi/",
+        "Q5 Bold Edition": "https://www.carwale.com/audi-cars/q5/bold-edition/",
+        "Q5 Signature Edition": "https://www.carwale.com/audi-cars/q5/signature-edition/",
+        "Q5 Technology 45 TFSI": "https://www.carwale.com/audi-cars/q5/technology-45-tfsi/"
+    },
+    "Audi A6": {
+        "A6 Premium Plus 45 TFSI": "https://www.carwale.com/audi-cars/a6/premium-plus-45-tfsi/",
+        "A6 Technology 45 TFSI": "https://www.carwale.com/audi-cars/a6/technology-45-tfsi/"
+    },
+    "Audi Q8": {
+        "Q8 55 TFSI quattro": "https://www.carwale.com/audi-cars/q8/55-tfsi-quattro/"
+    },
+    "Audi Q3 Sportback": {
+        "Q3 Sportback Signature Edition": "https://www.carwale.com/audi-cars/q3-sportback/signature-edition/",
+        "Q3 Sportback Bold Edition": "https://www.carwale.com/audi-cars/q3-sportback/bold-edition/",
+        "Q3 Sportback Technology Plus S-line": "https://www.carwale.com/audi-cars/q3-sportback/technology-plus-s-line/"
+    },
+    "Audi A8 L": {
+        "A8 L Celebration Edition": "https://www.carwale.com/audi-cars/a8-l/celebration-edition/",
+        "A8 L Technology": "https://www.carwale.com/audi-cars/a8-l/technology/"
+    },
+    "Audi RS5": {
+        "RS5 Sportback": "https://www.carwale.com/audi-cars/rs5/sportback/"
+    },
+    "Audi RS Q8 Performance": {
+        "RS Q8 Performance 4.0L TFSI": "https://www.carwale.com/audi-cars/rs-q8-performance/40l-tfsi/"
+    },
+    "Audi SQ8": {
+        "SQ8 4.0 | Petrol Turbo | Automatic": "https://www.carwale.com/audi-cars/sq8/40-petrol-turbo-automatic/"
+    },
+    "Audi e-tron GT": {
+        "e-tron GT S": "https://www.carwale.com/audi-cars/e-tron-gt/s/",
+        "e-tron GT RS": "https://www.carwale.com/audi-cars/e-tron-gt/rs/"
+    },
+    "Audi Q8 e-tron": {
+        "Q8 e-tron 50": "https://www.carwale.com/audi-cars/q8-e-tron/50/",
+        "Q8 e-tron 55": "https://www.carwale.com/audi-cars/q8-e-tron/55/"
+    },
+    "Audi e-tron Sportback": {
+        "e-tron Sportback 55": "https://www.carwale.com/audi-cars/e-tron-sportback/55/",
+        "e-tron Sportback 55 Technology": "https://www.carwale.com/audi-cars/e-tron-sportback/55-technology/"
+    },
+    "Audi e-tron": {
+        "e-tron 50": "https://www.carwale.com/audi-cars/e-tron/50/",
+        "e-tron 55": "https://www.carwale.com/audi-cars/e-tron/55/",
+        "e-tron 55 Technology": "https://www.carwale.com/audi-cars/e-tron/55-technology/"
+    },
+    "Audi Q8 Sportback e-tron": {
+        "Q8 Sportback e-tron 50": "https://www.carwale.com/audi-cars/q8-sportback-e-tron/50/",
+        "Q8 Sportback e-tron 55": "https://www.carwale.com/audi-cars/q8-sportback-e-tron/55/"
+    },
+    "BYD Atto 3": {
+        "Atto 3 Dynamic": "https://www.carwale.com/byd-cars/atto-3/dynamic/",
+        "Atto 3 Premium": "https://www.carwale.com/byd-cars/atto-3/premium/",
+        "Atto 3 Superior": "https://www.carwale.com/byd-cars/atto-3/superior/"
+    },
+    "BYD Sealion 7": {
+        "Sealion 7 Premium | 2WD 82.6 kWh": "https://www.carwale.com/byd-cars/sealion-7/premium-2wd-826-kwh/",
+        "Sealion 7 Performance | AWD 82.6 kWh": "https://www.carwale.com/byd-cars/sealion-7/performance-awd-826-kwh/",
+        "Sealion 7 Anniversary Edition | AWD 82.6 kWh": "https://www.carwale.com/byd-cars/sealion-7/anniversary-edition-awd-826-kwh/"
+    },
+    "BYD Seal": {
+        "Seal Dynamic": "https://www.carwale.com/byd-cars/seal/dynamic/",
+        "Seal Premium": "https://www.carwale.com/byd-cars/seal/premium/",
+        "Seal Performance": "https://www.carwale.com/byd-cars/seal/performance/"
+    },
+    "BYD eMax 7": {
+        "eMax 7 Premium 6 STR": "https://www.carwale.com/byd-cars/emax-7/premium-6-str/",
+        "eMax 7 Premium 7 STR": "https://www.carwale.com/byd-cars/emax-7/premium-7-str/",
+        "eMax 7 Superior 6 STR": "https://www.carwale.com/byd-cars/emax-7/superior-6-str/",
+        "eMax 7 Superior 7 STR": "https://www.carwale.com/byd-cars/emax-7/superior-7-str/"
+    },
+    "Citroen Aircross X": {
+        "Aircross X You": "https://www.carwale.com/citroen-cars/aircross-x/you/",
+        "Aircross X Plus": "https://www.carwale.com/citroen-cars/aircross-x/plus/",
+        "Aircross X Max": "https://www.carwale.com/citroen-cars/aircross-x/max/"
+    },
+    "Citroen C3": {
+        "C3 Live": "https://www.carwale.com/citroen-cars/c3/live/",
+        "C3 Live (O)": "https://www.carwale.com/citroen-cars/c3/live-o/",
+        "C3 Feel": "https://www.carwale.com/citroen-cars/c3/feel/",
+        "C3 Feel (O)": "https://www.carwale.com/citroen-cars/c3/feel-o/",
+        "C3 Shine": "https://www.carwale.com/citroen-cars/c3/shine/"
+    },
+    "Citroen Basalt X": {
+        "Basalt X You": "https://www.carwale.com/citroen-cars/basalt-x/you/",
+        "Basalt X Plus": "https://www.carwale.com/citroen-cars/basalt-x/plus/",
+        "Basalt X Max": "https://www.carwale.com/citroen-cars/basalt-x/max/"
+    },
+    "Citroen eC3": {
+        "eC3 Feel": "https://www.carwale.com/citroen-cars/ec3/feel/",
+        "eC3 Shine": "https://www.carwale.com/citroen-cars/ec3/shine/",
+        "eC3 Live": "https://www.carwale.com/citroen-cars/ec3/live/"
+    },
+    "Citroen C5 Aircross": {
+        "C5 Aircross Shine": "https://www.carwale.com/citroen-cars/c5-aircross/shine/"
+    },
+    "Porsche 911": {
+        "911 Carrera": "https://www.carwale.com/porsche-cars/911/carrera/",
+        "911 Carrera 4 GTS": "https://www.carwale.com/porsche-cars/911/carrera-4-gts/",
+        "911 Turbo 50 Years": "https://www.carwale.com/porsche-cars/911/turbo-50-years/",
+        "911 Turbo S": "https://www.carwale.com/porsche-cars/911/turbo-s/"
+    },
+    "Porsche Cayenne": {
+        "Cayenne Base": "https://www.carwale.com/porsche-cars/cayenne/base/",
+        "Cayenne Black Edition": "https://www.carwale.com/porsche-cars/cayenne/black-edition/",
+        "Cayenne GTS": "https://www.carwale.com/porsche-cars/cayenne/gts/"
+    },
+    "Porsche Macan": {
+        "Macan Base": "https://www.carwale.com/porsche-cars/macan/base/"
+    },
+    "Porsche Panamera": {
+        "Panamera G3": "https://www.carwale.com/porsche-cars/panamera/g3/",
+        "Panamera GTS": "https://www.carwale.com/porsche-cars/panamera/gts/"
+    },
+    "Porsche Taycan": {
+        "Taycan RWD": "https://www.carwale.com/porsche-cars/taycan/rwd/",
+        "Taycan 4S": "https://www.carwale.com/porsche-cars/taycan/4s/",
+        "Taycan 4S Black Edition": "https://www.carwale.com/porsche-cars/taycan/4s-black-edition/",
+        "Taycan Turbo": "https://www.carwale.com/porsche-cars/taycan/turbo/"
+    },
+    "Porsche Macan Turbo EV": {
+        "Macan Turbo EV Base": "https://www.carwale.com/porsche-cars/macan-turbo-ev/base/",
+        "Macan Turbo EV 4S Electric": "https://www.carwale.com/porsche-cars/macan-turbo-ev/4s-electric/",
+        "Macan Turbo EV Electric SUV": "https://www.carwale.com/porsche-cars/macan-turbo-ev/electric-suv/"
+    },
+    "Porsche Cayenne EV": {
+        "Cayenne EV Base": "https://www.carwale.com/porsche-cars/cayenne-ev/base/",
+        "Cayenne EV Turbo": "https://www.carwale.com/porsche-cars/cayenne-ev/turbo/"
+    },
+    "Volvo XC90": {
+        "XC90 B5 Ultra": "https://www.carwale.com/volvo-cars/xc90/b5-ultra/"
+    },
+    "Volvo EX30": {
+        "EX30 RWD Ultra": "https://www.carwale.com/volvo-cars/ex30/rwd-ultra/"
+    },
+    "Porsche Cayenne Coupe": {
+        "Cayenne Coupe Base": "https://www.carwale.com/porsche-cars/cayenne-coupe/base/",
+        "Cayenne Coupe Black Edition": "https://www.carwale.com/porsche-cars/cayenne-coupe/black-edition/",
+        "Cayenne Coupe GTS Coupe": "https://www.carwale.com/porsche-cars/cayenne-coupe/gts-coupe/"
+    },
+    "Volvo XC60": {
+        "XC60 B5 Ultra": "https://www.carwale.com/volvo-cars/xc60/b5-ultra/"
+    },
+    "Volvo EX40": {
+        "EX40 Plus": "https://www.carwale.com/volvo-cars/ex40/plus/"
+    },
+    "Volvo EC40": {
+        "EC40 E80": "https://www.carwale.com/volvo-cars/ec40/e80/"
+    },
+    "Lexus ES": {
+        "ES 500 e | AWD 74.7 kWh": "https://www.carwale.com/lexus-cars/es/500-e-awd-747-kwh/",
+        "ES 350h Hybrid (Electric + Petrol) Automatic": "https://www.carwale.com/lexus-cars/es/350h-hybrid-electric-plus-petrol-automatic/"
+    },
+    "Lexus LX": {
+        "LX 500d with Walnut Open Pore Trim": "https://www.carwale.com/lexus-cars/lx/500d-with-walnut-open-pore-trim/",
+        "LX 500d with Ash Open Pore Sumi Black Trim": "https://www.carwale.com/lexus-cars/lx/500d-with-ash-open-pore-sumi-black-trim/",
+        "LX 500d with Artwood Takanoha": "https://www.carwale.com/lexus-cars/lx/500d-with-artwood-takanoha/",
+        "LX 500d Urban": "https://www.carwale.com/lexus-cars/lx/500d-urban/",
+        "LX 500d Overtrail": "https://www.carwale.com/lexus-cars/lx/500d-overtrail/"
+    },
+    "Lexus LM": {
+        "LM 350h 7 STR VIP": "https://www.carwale.com/lexus-cars/lm/350h-7-str-vip/",
+        "LM 350h 4 STR Ultra Luxury": "https://www.carwale.com/lexus-cars/lm/350h-4-str-ultra-luxury/"
+    },
+    "Lexus NX": {
+        "NX 350h Exquisite": "https://www.carwale.com/lexus-cars/nx/350h-exquisite/",
+        "NX 350h Overtrail Grade": "https://www.carwale.com/lexus-cars/nx/350h-overtrail-grade/",
+        "NX 350h Luxury": "https://www.carwale.com/lexus-cars/nx/350h-luxury/",
+        "NX 350h F-Sport": "https://www.carwale.com/lexus-cars/nx/350h-f-sport/"
+    },
+    "Lexus RX": {
+        "RX 350h Exquisite Lexus Audio": "https://www.carwale.com/lexus-cars/rx/350h-exquisite-lexus-audio/",
+        "RX 350h Exquisite with Mark Levinson": "https://www.carwale.com/lexus-cars/rx/350h-exquisite-with-mark-levinson/",
+        "RX 350h Luxury": "https://www.carwale.com/lexus-cars/rx/350h-luxury/",
+        "RX 500h F-Sport Plus": "https://www.carwale.com/lexus-cars/rx/500h-f-sport-plus/"
+    },
+    "ES": {
+        "ES 500 e | AWD 74.7 kWh": "https://www.carwale.com/lexus-cars/es/500-e-awd-747-kwh/",
+        "ES 350h Hybrid (Electric + Petrol) Automatic": "https://www.carwale.com/lexus-cars/es/350h-hybrid-electric-plus-petrol-automatic/"
+    },
+    "Mini Cooper": {
+        "Cooper S": "https://www.carwale.com/mini-cars/cooper/s/",
+        "Cooper Classic Pack": "https://www.carwale.com/mini-cars/cooper/classic-pack/",
+        "Cooper Favoured Pack": "https://www.carwale.com/mini-cars/cooper/favoured-pack/",
+        "Cooper JCW": "https://www.carwale.com/mini-cars/cooper/jcw/",
+        "Cooper S Victory Edition | Petrol Turbo | Automatic": "https://www.carwale.com/mini-cars/cooper/s-victory-edition-petrol-turbo-automatic/"
+    },
+    "Mini Cooper S Convertible": {
+        "Cooper S Convertible FWD": "https://www.carwale.com/mini-cars/cooper-s-convertible/fwd/",
+        "Cooper S Convertible JCW Pack": "https://www.carwale.com/mini-cars/cooper-s-convertible/jcw-pack/"
+    },
+    "Mini Countryman": {
+        "Countryman JCW All4": "https://www.carwale.com/mini-cars/countryman/jcw-all4/"
+    },
+    "Mini Cooper SE": {
+        "Cooper SE 3-Door": "https://www.carwale.com/mini-cars/cooper-se/3-door/",
+        "Cooper SE Charged Edition": "https://www.carwale.com/mini-cars/cooper-se/charged-edition/"
+    },
+    "Mini Countryman Electric": {
+        "Countryman Electric E | 2WD 64.6 kWh": "https://www.carwale.com/mini-cars/countryman-electric/e-2wd-646-kwh/",
+        "Countryman Electric Classic Pack | 2WD 64.6 kWh": "https://www.carwale.com/mini-cars/countryman-electric/classic-pack-2wd-646-kwh/",
+        "Countryman Electric Favoured Pack | 2WD 64.6 kWh": "https://www.carwale.com/mini-cars/countryman-electric/favoured-pack-2wd-646-kwh/",
+        "Countryman Electric SE All4 | AWD 64.6 kWh": "https://www.carwale.com/mini-cars/countryman-electric/se-all4-awd-646-kwh/"
+    },
+    "Cooper S Convertible": {
+        "Cooper S Convertible FWD": "https://www.carwale.com/mini-cars/cooper-s-convertible/fwd/",
+        "Cooper S Convertible JCW Pack": "https://www.carwale.com/mini-cars/cooper-s-convertible/jcw-pack/"
+    },
+    "Ferrari 849 Testarossa": {
+        "849 Testarossa 4.0-litre V8 | Hybrid (Electric + Petrol) Turbo | Automatic": "https://www.carwale.com/ferrari-cars/849-testarossa/40-litre-v8-hybrid-electric-plus-petrol-turbo-automatic/"
+    },
+    "Ferrari Purosangue SUV": {
+        "Purosangue SUV V12": "https://www.carwale.com/ferrari-cars/purosangue-suv/v12/"
+    },
+    "Ferrari 296 GTB": {
+        "296 GTB 3.0 Petrol": "https://www.carwale.com/ferrari-cars/296-gtb/30-petrol/"
+    },
+    "Ferrari Roma": {
+        "Roma Coupe": "https://www.carwale.com/ferrari-cars/roma/coupe/"
+    },
+    "Ferrari F8 Tributo": {
+        "F8 Tributo Berlinetta": "https://www.carwale.com/ferrari-cars/f8-tributo/berlinetta/"
+    },
+    "Ferrari Portofino": {
+        "Portofino M": "https://www.carwale.com/ferrari-cars/portofino/m/"
+    },
+    "Ferrari 296 GTS": {
+        "296 GTS 3.0 Petrol": "https://www.carwale.com/ferrari-cars/296-gts/30-petrol/"
+    },
+    "Lamborghini Revuelto": {
+        "Revuelto Standard": "https://www.carwale.com/lamborghini-cars/revuelto/standard/"
+    },
+    "Lamborghini Temerario": {
+        "Temerario V8": "https://www.carwale.com/lamborghini-cars/temerario/v8/"
+    },
+    "Lamborghini Urus SE": {
+        "Urus SE 4WD": "https://www.carwale.com/lamborghini-cars/urus-se/4wd/"
+    },
+    "Force Motors Gurkha": {
+        "Gurkha 3 Door (4-Seater)": "https://www.carwale.com/force-motors-cars/gurkha/3-door-4-seater/",
+        "Gurkha 5 Door (7-Seater)": "https://www.carwale.com/force-motors-cars/gurkha/5-door-7-seater/"
+    },
+    "Force Motors Trax Cruiser": {
+        "Trax Cruiser 9 STR": "https://www.carwale.com/force-motors-cars/trax-cruiser/9-str/",
+        "Trax Cruiser 12 STR": "https://www.carwale.com/force-motors-cars/trax-cruiser/12-str/",
+        "Trax Cruiser 12 STR AC": "https://www.carwale.com/force-motors-cars/trax-cruiser/12-str-ac/",
+        "Trax Cruiser 9 STR AC": "https://www.carwale.com/force-motors-cars/trax-cruiser/9-str-ac/"
+    },
+    "Rolls-Royce Phantom": {
+        "Phantom Sedan": "https://www.carwale.com/rolls-royce-cars/phantom/sedan/",
+        "Phantom Centenary Edition": "https://www.carwale.com/rolls-royce-cars/phantom/centenary-edition/"
+    },
+    "Rolls-Royce Cullinan": {
+        "Cullinan SUV": "https://www.carwale.com/rolls-royce-cars/cullinan/suv/"
+    },
+    "Tesla Model Y": {
+        "Model Y Premium RWD | 2WD 60.0 kWh": "https://www.carwale.com/tesla-cars/model-y/premium-rwd-2wd-600-kwh/",
+        "Model Y L Premium | AWD 88.0 kWh": "https://www.carwale.com/tesla-cars/model-y/l-premium-awd-880-kwh/",
+        "Model Y Premium Long Range RWD | 2WD 75.0 kWh": "https://www.carwale.com/tesla-cars/model-y/premium-long-range-rwd-2wd-750-kwh/"
+    },
+    "Rolls-Royce Spectre": {
+        "Spectre Coupe": "https://www.carwale.com/rolls-royce-cars/spectre/coupe/",
+        "Spectre Black Badge": "https://www.carwale.com/rolls-royce-cars/spectre/black-badge/"
+    },
+    "Jaguar F-Pace": {
+        "F-Pace S R-Dynamic 2.0 Petrol": "https://www.carwale.com/jaguar-cars/f-pace/s-r-dynamic-20-petrol/",
+        "F-Pace S R-Dynamic 2.0 Diesel": "https://www.carwale.com/jaguar-cars/f-pace/s-r-dynamic-20-diesel/"
+    },
+    "Model 3": {
+        "Performance": "https://www.carwale.com/tesla-cars/model-3/performance/",
+        "Long Range": "https://www.carwale.com/tesla-cars/model-3/long-range/",
+        "Rear-Wheel Drive": "https://www.carwale.com/tesla-cars/model-3/rear-wheel-drive/"
+    },
+    "Isuzu V-Cross": {
+        "V-Cross Z | 4WD Diesel Turbo | Manual": "https://www.carwale.com/isuzu-cars/v-cross/z-4wd-diesel-turbo-manual/",
+        "V-Cross Z Prestige | 4WD Diesel Turbo | Manual": "https://www.carwale.com/isuzu-cars/v-cross/z-prestige-4wd-diesel-turbo-manual/",
+        "V-Cross Z Prestige | 4WD Diesel Turbo | Automatic": "https://www.carwale.com/isuzu-cars/v-cross/z-prestige-4wd-diesel-turbo-automatic/"
+    },
+    "Isuzu Hi-Lander": {
+        "Hi-Lander 2WD | Diesel Turbo | Manual": "https://www.carwale.com/isuzu-cars/hi-lander/2wd-diesel-turbo-manual/",
+        "Hi-Lander 2WD | Diesel Turbo | Automatic": "https://www.carwale.com/isuzu-cars/hi-lander/2wd-diesel-turbo-automatic/"
+    },
+    "Isuzu MU-X": {
+        "MU-X 4x2 AT": "https://www.carwale.com/isuzu-cars/mu-x/4x2-at/",
+        "MU-X 4x4 AT": "https://www.carwale.com/isuzu-cars/mu-x/4x4-at/"
+    },
+    "Aston Martin Vanquish": {
+        "Vanquish V12": "https://www.carwale.com/aston-martin-cars/vanquish/v12/"
+    },
+    "Bentley Bentayga": {
+        "Bentayga V8 Petrol": "https://www.carwale.com/bentley-cars/bentayga/v8-petrol/",
+        "Bentayga EWB": "https://www.carwale.com/bentley-cars/bentayga/ewb/"
+    },
+    "Aston Martin DB11": {
+        "DB11 Evolution": "https://www.carwale.com/aston-martin-cars/db11/evolution/"
+    },
+    "Aston Martin Vantage": {
+        "Vantage V8": "https://www.carwale.com/aston-martin-cars/vantage/v8/"
+    },
+    "Aston Martin DBX": {
+        "DBX Twin Turbo": "https://www.carwale.com/aston-martin-cars/dbx/twin-turbo/",
+        "DBX 707": "https://www.carwale.com/aston-martin-cars/dbx/707/"
+    },
+    "Aston Martin DB12": {
+        "DB12 4.0-litre": "https://www.carwale.com/aston-martin-cars/db12/40-litre/"
+    },
+    "Maserati Ghibli": {
+        "Ghibli GT Hybrid": "https://www.carwale.com/maserati-cars/ghibli/gt-hybrid/",
+        "Ghibli Modena S": "https://www.carwale.com/maserati-cars/ghibli/modena-s/",
+        "Ghibli Trofeo": "https://www.carwale.com/maserati-cars/ghibli/trofeo/"
+    },
+    "Maserati MC20": {
+        "MC20 Coupe": "https://www.carwale.com/maserati-cars/mc20/coupe/",
+        "MC20 Cielo": "https://www.carwale.com/maserati-cars/mc20/cielo/"
+    },
+    "Maserati Levante": {
+        "Levante GT Hybrid": "https://www.carwale.com/maserati-cars/levante/gt-hybrid/",
+        "Levante Modena": "https://www.carwale.com/maserati-cars/levante/modena/",
+        "Levante Trofeo": "https://www.carwale.com/maserati-cars/levante/trofeo/",
+        "Levante Modena S": "https://www.carwale.com/maserati-cars/levante/modena-s/"
+    },
+    "Maserati MCPura": {
+        "MCPura Coupe": "https://www.carwale.com/maserati-cars/mcpura/coupe/"
+    },
+    "Maserati Grecale": {
+        "Grecale GT": "https://www.carwale.com/maserati-cars/grecale/gt/",
+        "Grecale Modena": "https://www.carwale.com/maserati-cars/grecale/modena/",
+        "Grecale Trofeo": "https://www.carwale.com/maserati-cars/grecale/trofeo/"
+    },
+    "Maserati Quattroporte": {
+        "Quattroporte GT": "https://www.carwale.com/maserati-cars/quattroporte/gt/",
+        "Quattroporte Modena": "https://www.carwale.com/maserati-cars/quattroporte/modena/",
+        "Quattroporte Trofeo": "https://www.carwale.com/maserati-cars/quattroporte/trofeo/"
+    },
+    "Maserati GranTurismo": {
+        "GranTurismo Modena": "https://www.carwale.com/maserati-cars/granturismo/modena/",
+        "GranTurismo Trofeo": "https://www.carwale.com/maserati-cars/granturismo/trofeo/"
+    },
+    "McLaren 750S": {
+        "750S Coupe": "https://www.carwale.com/mclaren-cars/750s/coupe/",
+        "750S Spider": "https://www.carwale.com/mclaren-cars/750s/spider/"
+    },
+    "McLaren GT": {
+        "GT Coupe": "https://www.carwale.com/mclaren-cars/gt/coupe/"
+    },
+    "McLaren 720S": {
+        "720S Coupe": "https://www.carwale.com/mclaren-cars/720s/coupe/",
+        "720S Spider": "https://www.carwale.com/mclaren-cars/720s/spider/"
+    },
+    "Lotus Emeya": {
+        "Emeya GT": "https://www.carwale.com/lotus-cars/emeya/gt/"
+    },
+    "Lotus Eletre": {
+        "Eletre Standard": "https://www.carwale.com/lotus-cars/eletre/standard/",
+        "Eletre S": "https://www.carwale.com/lotus-cars/eletre/s/",
+        "Eletre R": "https://www.carwale.com/lotus-cars/eletre/r/"
+    },
+    "Lotus Emira": {
+        "Emira Turbo": "https://www.carwale.com/lotus-cars/emira/turbo/"
+    }
+}
